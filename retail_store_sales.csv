@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Customer_ID,Age,Gender,Category,Product,Region,Quantity,Price,Discount_Percent,Sales
+1,2025-01-21,C1103,36,Male,Groceries,Coffee,East,5,958.0,20,3832.0
+2,2025-11-05,C1258,41,Female,Groceries,Coffee,South,5,3025.52,10,13614.84
+3,2025-11-10,C1022,61,Male,Clothing,Jeans,North,4,957.85,15,3256.69
+4,2025-07-09,C1175,61,Male,Groceries,Bread,West,7,740.49,15,4405.92
+5,2025-06-16,C1274,21,Male,Home & Kitchen,Mixer,West,3,4306.71,20,10336.1
+6,2025-12-06,C1092,64,Female,Clothing,Jeans,East,2,1557.84,20,2492.54
+7,2026-07-16,C1002,23,Female,Home & Kitchen,Mixer,South,7,908.16,0,6357.12
+8,2026-07-10,C1162,27,Female,Home & Kitchen,Chair,West,5,4849.44,5,23034.84
+9,2025-10-23,C1213,33,Male,Clothing,Jacket,South,7,488.04,15,2903.84
+10,2026-01-15,C1041,46,Male,Groceries,Rice,North,2,4828.01,15,8207.62
+11,2026-04-17,C1063,28,Male,Electronics,Laptop,North,7,21227.73,0,148594.11
+12,2026-05-05,C1231,58,Female,Home & Kitchen,Table,East,3,3867.79,20,9282.7
+13,2025-04-09,C1172,57,Female,Electronics,Tablet,East,4,16611.81,20,53157.79
+14,2025-01-05,C1218,31,Male,Groceries,Rice,East,3,641.99,10,1733.37
+15,2026-04-06,C1179,49,Male,Electronics,Headphones,North,7,5633.45,15,33519.03
+16,2025-06-20,C1029,53,Male,Home & Kitchen,Mixer,West,4,4542.45,20,14535.84
+17,2026-07-11,C1062,23,Female,Groceries,Bread,West,3,848.05,5,2416.94
+18,2026-05-21,C1231,50,Male,Home & Kitchen,Cookware,North,4,4468.17,10,16085.41
+19,2025-09-16,C1198,25,Male,Groceries,Milk,North,1,4099.17,0,4099.17
+20,2026-01-09,C1160,49,Female,Clothing,T-Shirt,North,1,643.33,15,546.83
+21,2025-09-25,C1295,19,Male,Home & Kitchen,Mixer,North,6,4860.32,15,24787.63
+22,2025-08-08,C1054,40,Male,Electronics,Laptop,West,1,13412.37,5,12741.75
+23,2026-02-20,C1247,21,Male,Electronics,Laptop,East,3,34067.2,20,81761.28
+24,2025-07-17,C1240,33,Male,Home & Kitchen,Table,North,1,3654.67,20,2923.74
+25,2026-02-07,C1147,37,Female,Home & Kitchen,Table,East,6,3494.27,10,18869.06
+26,2026-04-18,C1151,48,Female,Home & Kitchen,Mixer,South,1,2017.98,5,1917.08
+27,2026-07-26,C1002,18,Female,Groceries,Bread,South,4,916.03,0,3664.12
+28,2025-08-21,C1099,36,Female,Home & Kitchen,Mixer,West,5,4419.05,0,22095.25
+29,2026-08-10,C1113,25,Female,Groceries,Coffee,South,6,3910.38,15,19942.94
+30,2025-04-09,C1153,46,Female,Home & Kitchen,Cookware,West,6,95.53,0,573.18
+31,2025-06-10,C1068,50,Female,Clothing,Jeans,North,2,3474.88,20,5559.81
+32,2026-04-05,C1022,63,Female,Home & Kitchen,Cookware,South,7,3618.65,0,25330.55
+33,2025-01-27,C1226,38,Female,Clothing,T-Shirt,North,3,4465.63,10,12057.2
+34,2026-05-31,C1035,34,Female,Home & Kitchen,Table,West,1,1016.45,20,813.16
+35,2025-02-06,C1280,46,Male,Clothing,T-Shirt,South,6,4578.58,10,24724.33
+36,2025-07-10,C1253,38,Female,Electronics,Headphones,East,3,49018.55,15,124997.3
+37,2026-07-20,C1058,20,Female,Electronics,Tablet,South,3,8557.69,0,25673.07
+38,2025-06-04,C1273,57,Male,Home & Kitchen,Chair,North,7,4950.77,5,32922.62
+39,2026-02-12,C1013,24,Male,Groceries,Milk,West,7,1503.28,5,9996.81
+40,2026-04-16,C1143,45,Female,Electronics,Tablet,South,1,3639.95,15,3093.96
+41,2026-07-29,C1190,39,Female,Home & Kitchen,Table,South,7,227.91,0,1595.37
+42,2026-03-20,C1101,50,Female,Clothing,T-Shirt,North,4,242.23,10,872.03
+43,2025-12-16,C1047,52,Male,Home & Kitchen,Cookware,West,4,3133.31,15,10653.25
+44,2025-04-30,C1275,45,Female,Home & Kitchen,Cookware,East,5,4849.21,5,23033.75
+45,2025-02-27,C1122,18,Male,Clothing,T-Shirt,South,2,4815.11,0,9630.22
+46,2025-09-29,C1189,56,Female,Home & Kitchen,Chair,East,6,3587.25,20,17218.8
+47,2025-06-03,C1144,54,Female,Electronics,Smartphone,North,5,21038.04,15,89411.67
+48,2025-04-04,C1238,22,Female,Electronics,Smartphone,West,4,2395.53,0,9582.12
+49,2025-09-11,C1222,54,Male,Clothing,Jeans,South,5,2393.69,0,11968.45
+50,2025-08-11,C1250,36,Female,Clothing,Jeans,West,5,4439.07,15,18866.05
+51,2026-05-12,C1160,44,Female,Electronics,Tablet,West,5,34229.79,5,162591.5
+52,2026-03-03,C1101,29,Male,Home & Kitchen,Chair,North,3,3234.28,0,9702.84
+53,2026-02-01,C1012,48,Female,Electronics,Tablet,South,2,10413.55,20,16661.68
+54,2025-03-31,C1264,46,Female,Electronics,Headphones,South,2,34182.04,0,68364.08
+55,2026-05-16,C1114,62,Male,Clothing,Jeans,North,2,1340.44,15,2278.75
+56,2026-01-29,C1192,52,Male,Home & Kitchen,Cookware,East,1,4027.23,0,4027.23
+57,2026-01-04,C1183,30,Male,Home & Kitchen,Cookware,North,2,1287.58,20,2060.13
+58,2025-12-08,C1187,36,Male,Groceries,Rice,West,6,4517.64,15,23039.96
+59,2026-03-31,C1284,31,Male,Home & Kitchen,Mixer,West,1,4243.36,0,4243.36
+60,2025-03-10,C1099,29,Male,Home & Kitchen,Table,West,2,3177.59,20,5084.14
+61,2025-02-08,C1109,59,Female,Groceries,Rice,East,4,4733.66,0,18934.64
+62,2025-08-23,C1146,64,Female,Clothing,Jacket,North,2,2235.58,20,3576.93
+63,2025-06-17,C1170,26,Female,Clothing,Jeans,East,4,4341.0,20,13891.2
+64,2026-05-11,C1145,24,Male,Clothing,Jeans,North,5,2590.96,10,11659.32
+65,2026-03-21,C1182,56,Male,Home & Kitchen,Cookware,South,6,3555.5,10,19199.7
+66,2025-08-08,C1126,37,Female,Clothing,Jacket,West,7,2200.54,20,12323.02
+67,2025-12-14,C1190,42,Female,Electronics,Headphones,North,1,37236.16,10,33512.54
+68,2025-06-22,C1149,33,Female,Clothing,T-Shirt,North,6,4020.44,20,19298.11
+69,2026-06-16,C1047,58,Male,Groceries,Coffee,South,5,1302.3,10,5860.35
+70,2026-04-16,C1012,27,Female,Groceries,Bread,West,1,3156.41,10,2840.77
+71,2025-01-08,C1122,45,Female,Home & Kitchen,Chair,South,4,578.44,20,1851.01
+72,2025-02-10,C1228,44,Female,Home & Kitchen,Chair,East,4,2939.1,15,9992.94
+73,2026-07-12,C1035,23,Female,Electronics,Laptop,East,1,20619.22,20,16495.38
+74,2025-08-30,C1251,62,Male,Home & Kitchen,Mixer,East,7,4599.92,5,30589.47
+75,2025-10-09,C1063,42,Female,Home & Kitchen,Mixer,East,6,4062.24,0,24373.44
+76,2025-04-09,C1006,45,Male,Groceries,Rice,North,5,364.38,0,1821.9
+77,2026-07-19,C1165,27,Female,Groceries,Rice,East,6,4570.17,20,21936.82
+78,2025-02-20,C1173,30,Female,Electronics,Laptop,South,6,10331.76,0,61990.56
+79,2025-09-07,C1162,20,Male,Electronics,Laptop,South,2,17972.32,5,34147.41
+80,2026-02-05,C1112,64,Male,Home & Kitchen,Mixer,East,6,4841.47,10,26143.94
+81,2025-04-13,C1192,51,Female,Electronics,Laptop,South,6,35233.58,10,190261.33
+82,2026-03-23,C1249,55,Male,Clothing,Jeans,West,6,2796.34,10,15100.24
+83,2025-03-22,C1133,46,Female,Groceries,Coffee,South,6,3129.33,10,16898.38
+84,2025-03-10,C1034,23,Male,Home & Kitchen,Mixer,South,2,3856.14,15,6555.44
+85,2025-04-21,C1249,40,Male,Electronics,Smartphone,West,3,29024.53,10,78366.23
+86,2025-12-26,C1184,42,Male,Groceries,Bread,West,6,3503.45,15,17867.59
+87,2025-02-20,C1277,22,Female,Groceries,Bread,West,5,4866.9,20,19467.6
+88,2025-08-21,C1012,43,Female,Clothing,T-Shirt,South,6,489.08,0,2934.48
+89,2025-09-06,C1047,39,Male,Electronics,Smartphone,West,2,34550.7,0,69101.4
+90,2025-01-26,C1292,18,Female,Clothing,Jacket,North,7,1917.57,0,13422.99
+91,2025-01-28,C1078,41,Female,Groceries,Rice,North,4,1086.28,5,4127.86
+92,2025-12-29,C1239,62,Female,Clothing,Jeans,South,3,1299.56,10,3508.81
+93,2026-04-30,C1028,27,Male,Clothing,Jacket,North,3,1250.23,0,3750.69
+94,2026-06-21,C1145,30,Female,Electronics,Headphones,North,6,16442.12,15,83854.81
+95,2025-04-21,C1228,64,Female,Home & Kitchen,Chair,South,3,3261.67,5,9295.76
+96,2026-03-01,C1101,23,Female,Groceries,Coffee,South,1,2844.07,5,2701.87
+97,2026-01-12,C1289,39,Male,Home & Kitchen,Chair,South,3,1812.68,20,4350.43
+98,2025-08-31,C1031,57,Male,Clothing,Jacket,West,4,4261.55,0,17046.2
+99,2025-03-16,C1004,32,Female,Home & Kitchen,Table,South,6,2019.39,15,10298.89
+100,2025-07-13,C1203,25,Female,Electronics,Smartphone,East,6,33465.3,0,200791.8
+101,2025-08-13,C1020,29,Male,Electronics,Tablet,North,5,9433.48,15,40092.29
+102,2026-05-26,C1259,50,Female,Clothing,Jeans,South,6,2927.13,10,15806.5
+103,2025-01-13,C1168,19,Female,Home & Kitchen,Chair,North,5,363.71,15,1545.77
+104,2026-07-04,C1094,48,Male,Groceries,Rice,North,1,3813.13,10,3431.82
+105,2026-01-11,C1137,51,Female,Clothing,Shoes,East,4,2072.17,20,6630.94
+106,2025-08-17,C1270,47,Male,Groceries,Rice,North,6,288.07,20,1382.74
+107,2026-07-28,C1132,42,Male,Electronics,Laptop,South,3,33293.34,5,94886.02
+108,2026-02-26,C1023,32,Male,Electronics,Smartphone,North,7,35717.74,10,225021.76
+109,2025-04-14,C1039,23,Female,Electronics,Laptop,East,7,19256.17,20,107834.55
+110,2025-10-16,C1231,44,Female,Groceries,Bread,North,2,739.4,20,1183.04
+111,2025-10-16,C1254,21,Female,Clothing,T-Shirt,South,1,3549.55,10,3194.6
+112,2025-06-08,C1228,62,Female,Clothing,T-Shirt,West,3,3785.44,20,9085.06
+113,2025-02-16,C1173,19,Male,Home & Kitchen,Table,East,5,2722.31,20,10889.24
+114,2025-10-10,C1069,37,Male,Groceries,Bread,South,4,2736.49,10,9851.36
+115,2025-10-29,C1218,30,Female,Clothing,Shoes,South,6,1175.39,5,6699.72
+116,2026-04-05,C1133,54,Female,Clothing,T-Shirt,East,1,139.65,15,118.7
+117,2025-02-20,C1029,31,Female,Clothing,T-Shirt,North,4,1903.46,0,7613.84
+118,2026-02-09,C1110,53,Female,Clothing,Jacket,East,7,657.91,20,3684.3
+119,2026-03-07,C1137,27,Female,Electronics,Laptop,North,7,15641.07,10,98538.74
+120,2026-06-21,C1090,28,Female,Electronics,Smartphone,South,1,5801.94,15,4931.65
+121,2025-06-28,C1182,41,Male,Groceries,Milk,East,3,3700.63,0,11101.89
+122,2025-10-12,C1063,60,Female,Home & Kitchen,Chair,South,5,4578.49,0,22892.45
+123,2025-03-25,C1177,37,Female,Home & Kitchen,Chair,South,5,2600.11,0,13000.55
+124,2025-05-21,C1215,36,Female,Home & Kitchen,Table,West,5,963.09,0,4815.45
+125,2025-01-18,C1257,31,Male,Clothing,T-Shirt,East,1,230.92,10,207.83
+126,2025-08-10,C1166,21,Male,Clothing,Jeans,West,6,2231.78,5,12721.15
+127,2026-04-03,C1162,50,Male,Electronics,Headphones,East,7,37686.99,5,250618.48
+128,2025-11-09,C1247,20,Female,Home & Kitchen,Cookware,East,2,4341.62,0,8683.24
+129,2025-08-27,C1229,20,Male,Groceries,Bread,North,5,2995.49,0,14977.45
+130,2026-03-28,C1165,38,Female,Home & Kitchen,Table,East,2,4036.31,10,7265.36
+131,2025-05-31,C1085,36,Female,Groceries,Coffee,North,2,114.36,0,228.72
+132,2026-06-07,C1234,19,Male,Groceries,Coffee,East,5,2136.05,5,10146.24
+133,2025-08-14,C1053,61,Male,Groceries,Coffee,West,4,3139.54,0,12558.16
+134,2025-06-07,C1120,63,Male,Clothing,Jeans,West,4,743.56,5,2825.53
+135,2026-07-06,C1237,42,Male,Home & Kitchen,Mixer,North,2,161.22,0,322.44
+136,2026-03-18,C1029,62,Female,Clothing,Jeans,East,3,2137.43,5,6091.68
+137,2025-02-11,C1041,55,Female,Electronics,Headphones,North,6,45723.51,20,219472.85
+138,2025-12-08,C1027,48,Female,Electronics,Laptop,East,6,41504.12,20,199219.78
+139,2026-03-31,C1173,34,Female,Home & Kitchen,Chair,North,4,3183.84,20,10188.29
+140,2025-12-29,C1193,53,Male,Home & Kitchen,Chair,South,2,2139.08,5,4064.25
+141,2025-04-23,C1187,56,Female,Electronics,Laptop,East,3,14505.82,15,36989.84
+142,2025-11-08,C1289,53,Male,Clothing,Jeans,West,7,3335.17,20,18676.95
+143,2025-12-31,C1201,43,Female,Groceries,Bread,North,4,304.56,10,1096.42
+144,2025-02-11,C1025,56,Male,Electronics,Laptop,East,1,20698.4,20,16558.72
+145,2026-06-08,C1275,54,Female,Clothing,T-Shirt,East,4,3488.75,5,13257.25
+146,2026-05-12,C1012,33,Female,Groceries,Rice,East,5,3960.57,0,19802.85
+147,2026-01-09,C1198,25,Male,Home & Kitchen,Table,South,5,3807.23,20,15228.92
+148,2026-06-22,C1047,49,Female,Electronics,Tablet,West,7,34689.44,0,242826.08
+149,2026-01-26,C1270,32,Male,Groceries,Rice,East,7,2801.24,5,18628.25
+150,2026-08-17,C1223,47,Female,Electronics,Headphones,East,2,21145.96,20,33833.54
+151,2026-06-10,C1159,41,Male,Groceries,Milk,West,3,4153.13,0,12459.39
+152,2025-07-02,C1039,32,Female,Home & Kitchen,Mixer,North,2,4430.74,10,7975.33
+153,2025-06-10,C1016,62,Female,Home & Kitchen,Mixer,West,6,1627.82,5,9278.57
+154,2026-02-18,C1251,30,Male,Clothing,Jeans,South,7,2336.62,5,15538.52
+155,2025-01-29,C1245,61,Male,Home & Kitchen,Cookware,West,3,396.65,15,1011.46
+156,2025-12-25,C1065,47,Male,Home & Kitchen,Cookware,East,7,2021.52,0,14150.64
+157,2025-10-20,C1153,65,Male,Electronics,Smartphone,North,6,42655.81,5,243138.12
+158,2025-12-10,C1140,54,Male,Clothing,Jacket,North,1,591.86,0,591.86
+159,2025-03-03,C1226,42,Male,Groceries,Coffee,West,6,4912.54,10,26527.72
+160,2025-08-31,C1107,51,Male,Home & Kitchen,Table,South,4,4197.24,20,13431.17
+161,2025-02-23,C1047,40,Male,Electronics,Laptop,North,2,39001.27,20,62402.03
+162,2026-05-05,C1178,35,Female,Groceries,Coffee,North,2,2648.91,10,4768.04
+163,2025-03-30,C1068,31,Male,Home & Kitchen,Table,South,3,1160.98,20,2786.35
+164,2025-07-14,C1226,29,Female,Groceries,Rice,North,3,1401.15,20,3362.76
+165,2025-08-14,C1124,32,Female,Groceries,Coffee,West,1,2776.74,10,2499.07
+166,2025-11-12,C1176,30,Female,Groceries,Rice,North,2,2686.38,20,4298.21
+167,2025-04-25,C1186,20,Female,Electronics,Laptop,West,2,24807.81,20,39692.5
+168,2025-09-19,C1216,36,Female,Clothing,Shoes,West,3,4329.24,0,12987.72
+169,2025-12-29,C1045,42,Male,Home & Kitchen,Mixer,South,3,4343.11,0,13029.33
+170,2026-07-11,C1249,48,Male,Home & Kitchen,Table,South,3,3775.95,20,9062.28
+171,2025-12-22,C1258,31,Male,Clothing,Shoes,North,3,1181.69,5,3367.82
+172,2025-04-23,C1233,34,Female,Home & Kitchen,Table,East,2,1470.84,10,2647.51
+173,2026-02-18,C1074,58,Female,Clothing,Shoes,South,5,3910.23,10,17596.04
+174,2025-10-05,C1196,37,Female,Groceries,Coffee,West,4,938.51,20,3003.23
+175,2026-02-05,C1193,39,Female,Clothing,Shoes,West,3,873.57,15,2227.6
+176,2025-08-15,C1007,46,Male,Groceries,Milk,North,2,4951.23,20,7921.97
+177,2026-07-24,C1026,51,Female,Clothing,Jacket,South,7,4102.99,10,25848.84
+178,2025-02-08,C1271,46,Male,Electronics,Tablet,East,1,5199.46,0,5199.46
+179,2025-01-22,C1027,20,Male,Home & Kitchen,Cookware,South,2,3875.47,15,6588.3
+180,2025-03-25,C1262,36,Male,Home & Kitchen,Cookware,North,4,3669.79,20,11743.33
+181,2025-06-12,C1281,41,Female,Groceries,Bread,South,1,1637.68,5,1555.8
+182,2026-08-28,C1008,32,Male,Groceries,Coffee,South,3,4842.56,0,14527.68
+183,2026-06-20,C1046,32,Male,Clothing,Shoes,South,7,3149.79,15,18741.25
+184,2026-06-05,C1166,65,Male,Clothing,Jacket,West,1,3056.17,15,2597.74
+185,2025-12-10,C1072,28,Female,Groceries,Milk,North,6,1663.33,5,9480.98
+186,2026-01-01,C1095,55,Female,Electronics,Tablet,East,5,3715.1,5,17646.72
+187,2026-01-27,C1267,39,Male,Electronics,Laptop,West,1,47637.17,0,47637.17
+188,2025-08-30,C1002,50,Male,Electronics,Laptop,North,4,49334.46,15,167737.16
+189,2025-04-13,C1194,55,Male,Electronics,Smartphone,South,1,41243.25,5,39181.09
+190,2026-03-04,C1123,23,Male,Clothing,Jeans,South,2,4116.13,5,7820.65
+191,2025-09-21,C1178,45,Female,Electronics,Headphones,West,7,27110.69,5,180286.09
+192,2025-03-25,C1208,21,Female,Clothing,Jacket,South,3,2447.77,10,6608.98
+193,2025-01-14,C1012,40,Female,Clothing,Jeans,North,7,3235.71,0,22649.97
+194,2025-11-05,C1183,49,Male,Electronics,Laptop,West,3,11038.78,15,28148.89
+195,2025-12-18,C1059,20,Female,Clothing,Jeans,South,2,3283.65,20,5253.84
+196,2025-11-28,C1213,48,Female,Groceries,Bread,North,5,407.38,0,2036.9
+197,2026-01-17,C1020,41,Female,Home & Kitchen,Cookware,North,5,1762.38,15,7490.12
+198,2026-05-27,C1228,19,Male,Groceries,Coffee,South,1,2221.15,20,1776.92
+199,2025-07-05,C1246,29,Male,Home & Kitchen,Chair,North,7,1420.3,10,8947.89
+200,2026-06-04,C1100,65,Female,Clothing,Shoes,East,5,3678.91,10,16555.1
+201,2026-07-07,C1111,31,Female,Clothing,Shoes,East,6,4858.41,20,23320.37
+202,2025-01-28,C1066,52,Male,Electronics,Tablet,North,2,4853.55,0,9707.1
+203,2025-10-30,C1287,28,Female,Groceries,Rice,East,4,697.82,20,2233.02
+204,2025-12-27,C1257,22,Female,Clothing,Jeans,West,2,2271.45,15,3861.46
+205,2025-10-11,C1121,60,Male,Groceries,Coffee,East,1,1300.01,15,1105.01
+206,2025-06-05,C1207,23,Female,Electronics,Tablet,East,5,39111.34,15,166223.19
+207,2026-05-26,C1293,37,Female,Electronics,Tablet,North,2,49335.98,0,98671.96
+208,2025-02-28,C1161,31,Female,Electronics,Headphones,South,3,22664.73,20,54395.35
+209,2025-05-06,C1217,46,Male,Home & Kitchen,Mixer,East,2,4827.34,10,8689.21
+210,2025-10-21,C1151,62,Female,Groceries,Coffee,West,7,2632.56,15,15663.73
+211,2025-12-07,C1129,25,Male,Clothing,Jeans,West,4,3383.49,5,12857.26
+212,2025-07-12,C1119,43,Male,Clothing,T-Shirt,South,7,926.89,5,6163.82
+213,2026-08-11,C1289,18,Male,Clothing,Jeans,East,2,3108.34,0,6216.68
+214,2026-08-25,C1220,19,Female,Home & Kitchen,Chair,West,5,3351.51,0,16757.55
+215,2026-08-08,C1245,30,Male,Clothing,Jacket,North,1,4338.87,0,4338.87
+216,2025-01-19,C1082,30,Male,Groceries,Coffee,East,2,2050.49,15,3485.83
+217,2025-03-06,C1076,24,Male,Groceries,Rice,North,3,1909.58,0,5728.74
+218,2026-05-12,C1291,61,Female,Groceries,Coffee,South,5,2271.03,0,11355.15
+219,2025-01-03,C1085,43,Female,Groceries,Bread,West,6,3230.75,5,18415.27
+220,2025-01-12,C1133,51,Female,Clothing,Jeans,North,4,176.93,5,672.33
+221,2025-12-30,C1021,40,Male,Groceries,Coffee,East,4,3059.13,5,11624.69
+222,2025-02-20,C1271,21,Male,Home & Kitchen,Table,North,5,4495.25,0,22476.25
+223,2026-01-08,C1052,63,Male,Clothing,Jacket,North,2,873.34,15,1484.68
+224,2026-02-24,C1158,35,Female,Groceries,Coffee,North,3,2925.61,5,8337.99
+225,2025-09-20,C1108,27,Male,Electronics,Tablet,North,2,6182.12,10,11127.82
+226,2026-03-21,C1298,53,Female,Groceries,Bread,West,7,579.04,5,3850.62
+227,2025-12-28,C1047,30,Male,Clothing,Jacket,South,6,2773.62,20,13313.38
+228,2026-06-05,C1271,27,Female,Clothing,T-Shirt,South,6,2988.02,5,17031.71
+229,2025-06-03,C1293,21,Female,Electronics,Laptop,West,2,45011.15,0,90022.3
+230,2025-05-26,C1164,27,Male,Groceries,Coffee,East,4,3373.55,0,13494.2
+231,2025-08-14,C1161,38,Male,Clothing,T-Shirt,South,7,1214.42,15,7225.8
+232,2026-08-13,C1077,42,Female,Home & Kitchen,Mixer,West,7,1189.72,10,7495.24
+233,2026-01-09,C1125,56,Male,Groceries,Bread,North,5,3395.41,5,16128.2
+234,2025-08-06,C1102,59,Female,Groceries,Bread,East,4,4102.6,15,13948.84
+235,2025-03-14,C1136,50,Male,Electronics,Smartphone,South,4,4374.35,0,17497.4
+236,2026-06-01,C1027,49,Male,Electronics,Headphones,West,4,22176.26,15,75399.28
+237,2026-01-16,C1058,20,Female,Clothing,Shoes,South,2,3416.65,15,5808.3
+238,2025-12-20,C1286,25,Female,Clothing,Jacket,West,4,3326.1,0,13304.4
+239,2025-11-07,C1208,59,Female,Clothing,Shoes,South,5,917.75,0,4588.75
+240,2026-05-30,C1144,47,Male,Electronics,Headphones,East,4,17443.82,15,59308.99
+241,2025-11-17,C1121,47,Male,Home & Kitchen,Table,West,6,4962.79,15,25310.23
+242,2026-04-05,C1038,51,Male,Clothing,Jeans,South,2,3950.11,0,7900.22
+243,2025-12-27,C1258,44,Male,Home & Kitchen,Mixer,North,7,1352.41,5,8993.53
+244,2025-07-15,C1262,52,Female,Electronics,Headphones,East,3,19909.38,5,56741.73
+245,2025-01-12,C1239,59,Female,Groceries,Milk,South,4,4264.55,5,16205.29
+246,2025-01-07,C1014,26,Male,Electronics,Headphones,North,6,43910.92,10,237118.97
+247,2025-07-25,C1276,35,Female,Groceries,Milk,South,3,3490.01,5,9946.53
+248,2025-06-13,C1095,31,Male,Electronics,Smartphone,South,1,24019.79,0,24019.79
+249,2026-04-28,C1025,30,Male,Home & Kitchen,Chair,South,6,915.45,10,4943.43
+250,2025-06-22,C1012,49,Female,Home & Kitchen,Mixer,West,2,2555.23,15,4343.89
+251,2026-03-23,C1160,46,Male,Home & Kitchen,Mixer,South,7,2555.4,5,16993.41
+252,2026-06-01,C1266,42,Female,Clothing,Shoes,South,7,802.52,10,5055.88
+253,2025-03-24,C1099,38,Male,Groceries,Milk,West,5,3116.51,0,15582.55
+254,2025-09-17,C1260,56,Female,Clothing,Jeans,North,3,929.94,15,2371.35
+255,2026-02-24,C1124,55,Male,Electronics,Headphones,South,4,15382.06,15,52299.0
+256,2026-04-28,C1007,44,Female,Groceries,Rice,South,4,2053.75,20,6572.0
+257,2026-05-25,C1183,19,Female,Clothing,Jacket,East,5,1966.04,20,7864.16
+258,2026-04-16,C1065,30,Male,Electronics,Smartphone,South,6,13064.68,5,74468.68
+259,2025-06-22,C1160,53,Male,Clothing,T-Shirt,East,5,1034.34,20,4137.36
+260,2025-07-02,C1117,43,Female,Electronics,Tablet,West,3,22773.43,15,58072.25
+261,2026-03-12,C1042,38,Female,Clothing,Shoes,North,4,3275.97,10,11793.49
+262,2025-05-09,C1130,65,Male,Electronics,Laptop,North,1,32968.74,0,32968.74
+263,2025-10-11,C1203,51,Female,Clothing,Jeans,East,2,1302.64,20,2084.22
+264,2025-06-22,C1069,49,Female,Clothing,Shoes,North,1,3088.97,15,2625.62
+265,2026-01-20,C1109,41,Male,Groceries,Rice,West,5,238.21,10,1071.94
+266,2026-01-01,C1228,28,Female,Electronics,Laptop,East,4,36901.67,5,140226.35
+267,2026-03-18,C1261,22,Female,Groceries,Bread,South,3,966.72,10,2610.14
+268,2025-12-03,C1223,25,Female,Home & Kitchen,Cookware,West,2,153.68,15,261.26
+269,2026-07-15,C1292,21,Female,Electronics,Laptop,North,2,33400.78,10,60121.4
+270,2025-05-29,C1164,29,Male,Electronics,Laptop,West,2,23964.94,5,45533.39
+271,2025-08-14,C1011,27,Male,Clothing,Jeans,North,5,2932.99,15,12465.21
+272,2025-05-04,C1114,39,Female,Home & Kitchen,Chair,South,7,520.31,10,3277.95
+273,2025-05-02,C1032,47,Male,Home & Kitchen,Mixer,East,4,1027.48,0,4109.92
+274,2026-02-01,C1149,25,Female,Electronics,Tablet,West,1,27246.43,20,21797.14
+275,2025-09-13,C1086,39,Male,Clothing,Jacket,North,7,3298.0,10,20777.4
+276,2026-06-25,C1213,32,Female,Clothing,Shoes,East,5,3653.34,5,17353.37
+277,2026-04-06,C1278,60,Male,Clothing,Jacket,North,7,2553.97,15,15196.12
+278,2025-01-23,C1030,56,Female,Electronics,Tablet,East,3,14947.67,10,40358.71
+279,2025-07-05,C1144,25,Male,Electronics,Tablet,West,5,8087.57,5,38415.96
+280,2025-08-12,C1010,38,Female,Electronics,Headphones,South,1,13967.31,10,12570.58
+281,2026-01-28,C1086,59,Female,Groceries,Bread,South,3,3455.03,20,8292.07
+282,2026-02-22,C1020,28,Female,Clothing,Shoes,East,1,104.61,0,104.61
+283,2025-05-12,C1111,21,Female,Groceries,Bread,South,6,4389.42,20,21069.22
+284,2026-02-09,C1202,55,Female,Home & Kitchen,Chair,West,3,732.22,20,1757.33
+285,2025-08-09,C1014,20,Female,Home & Kitchen,Mixer,North,5,510.3,15,2168.78
+286,2026-08-17,C1159,36,Male,Home & Kitchen,Chair,East,7,3529.57,5,23471.64
+287,2026-06-26,C1117,48,Female,Clothing,Jacket,West,6,3492.31,15,17810.78
+288,2025-07-02,C1146,45,Male,Groceries,Coffee,East,5,779.89,0,3899.45
+289,2026-02-05,C1198,21,Female,Groceries,Rice,West,4,1532.25,0,6129.0
+290,2025-03-16,C1137,43,Female,Groceries,Bread,North,7,2079.03,15,12370.23
+291,2025-09-11,C1118,62,Female,Electronics,Tablet,North,5,48984.37,10,220429.66
+292,2026-07-01,C1069,46,Female,Groceries,Rice,North,3,4706.36,5,13413.13
+293,2025-12-22,C1070,43,Female,Home & Kitchen,Mixer,South,5,2318.03,20,9272.12
+294,2025-07-01,C1174,61,Female,Groceries,Bread,North,2,4551.48,0,9102.96
+295,2026-02-18,C1220,24,Male,Groceries,Coffee,East,1,4785.24,15,4067.45
+296,2025-07-24,C1070,61,Male,Home & Kitchen,Chair,North,2,1396.15,5,2652.68
+297,2026-03-17,C1021,21,Female,Home & Kitchen,Cookware,North,3,360.13,5,1026.37
+298,2025-07-22,C1148,41,Male,Groceries,Bread,West,6,4504.18,5,25673.83
+299,2025-06-14,C1021,35,Male,Groceries,Rice,East,2,4147.95,0,8295.9
+300,2026-01-06,C1161,21,Male,Groceries,Milk,South,5,2848.38,10,12817.71
+301,2026-07-27,C1061,51,Female,Electronics,Headphones,South,6,28105.02,0,168630.12
+302,2026-05-09,C1198,51,Male,Groceries,Rice,South,7,3553.78,0,24876.46
+303,2025-03-07,C1098,33,Female,Electronics,Laptop,East,2,33242.98,0,66485.96
+304,2026-07-25,C1138,52,Female,Electronics,Headphones,East,6,14600.32,15,74461.63
+305,2026-01-18,C1068,63,Female,Groceries,Rice,South,7,4367.07,5,29041.02
+306,2026-08-27,C1270,44,Male,Groceries,Coffee,North,5,3315.17,15,14089.47
+307,2025-09-11,C1044,50,Female,Home & Kitchen,Chair,West,4,3871.46,5,14711.55
+308,2026-01-14,C1178,60,Male,Groceries,Milk,North,7,3301.06,0,23107.42
+309,2026-04-21,C1297,53,Male,Groceries,Bread,North,4,2640.48,15,8977.63
+310,2026-07-08,C1268,19,Male,Home & Kitchen,Table,West,1,2010.05,5,1909.55
+311,2025-02-09,C1220,18,Male,Groceries,Rice,West,3,4491.07,10,12125.89
+312,2025-09-17,C1246,36,Female,Home & Kitchen,Mixer,North,4,4110.87,20,13154.78
+313,2026-07-29,C1109,38,Female,Home & Kitchen,Table,North,6,1632.35,0,9794.1
+314,2025-09-04,C1128,44,Male,Clothing,Shoes,North,4,4415.54,10,15895.94
+315,2026-01-17,C1133,52,Male,Groceries,Rice,West,4,3610.8,5,13721.04
+316,2026-07-26,C1213,41,Female,Electronics,Laptop,South,4,45918.58,10,165306.89
+317,2025-06-05,C1248,43,Female,Groceries,Coffee,North,4,2650.9,20,8482.88
+318,2025-12-04,C1075,40,Female,Electronics,Headphones,West,4,45277.46,10,162998.86
+319,2025-10-16,C1212,33,Female,Clothing,T-Shirt,South,5,4040.67,10,18183.02
+320,2025-05-04,C1001,25,Male,Groceries,Coffee,East,4,3424.26,0,13697.04
+321,2025-05-23,C1191,38,Male,Home & Kitchen,Table,North,3,3486.05,0,10458.15
+322,2026-04-05,C1039,26,Male,Electronics,Laptop,West,6,37986.51,15,193731.2
+323,2025-08-07,C1091,51,Female,Electronics,Headphones,South,2,32573.35,10,58632.03
+324,2026-06-26,C1084,42,Female,Clothing,Jeans,West,4,1938.98,10,6980.33
+325,2025-03-24,C1110,20,Female,Clothing,Jeans,East,6,1436.18,0,8617.08
+326,2026-01-10,C1121,36,Male,Electronics,Tablet,West,4,49091.75,0,196367.0
+327,2026-04-10,C1286,26,Female,Clothing,Shoes,North,6,645.22,15,3290.62
+328,2025-11-30,C1222,58,Female,Home & Kitchen,Cookware,East,1,4131.45,20,3305.16
+329,2025-05-07,C1255,33,Male,Home & Kitchen,Cookware,South,2,3355.63,0,6711.26
+330,2026-07-30,C1050,38,Male,Electronics,Tablet,North,6,21516.21,10,116187.53
+331,2025-07-20,C1035,34,Female,Electronics,Tablet,West,4,11089.24,15,37703.42
+332,2026-03-14,C1076,63,Male,Home & Kitchen,Mixer,East,5,3487.53,15,14822.0
+333,2026-07-04,C1276,46,Male,Electronics,Headphones,West,2,8324.75,20,13319.6
+334,2026-08-02,C1194,41,Female,Groceries,Bread,East,4,565.91,15,1924.09
+335,2026-07-27,C1268,23,Female,Groceries,Rice,East,1,1381.35,0,1381.35
+336,2025-04-03,C1109,52,Female,Home & Kitchen,Table,South,4,2374.73,0,9498.92
+337,2025-02-18,C1190,25,Male,Groceries,Coffee,West,5,2397.73,0,11988.65
+338,2025-11-14,C1106,60,Female,Home & Kitchen,Mixer,South,2,2341.12,20,3745.79
+339,2026-07-25,C1183,58,Male,Electronics,Laptop,North,5,14299.66,0,71498.3
+340,2025-05-07,C1046,62,Male,Home & Kitchen,Table,West,6,4964.44,20,23829.31
+341,2025-04-19,C1268,65,Male,Home & Kitchen,Table,North,4,4417.18,20,14134.98
+342,2025-06-23,C1158,62,Male,Clothing,Jacket,East,4,4114.93,0,16459.72
+343,2025-11-20,C1161,53,Female,Electronics,Headphones,North,4,34360.84,5,130571.19
+344,2025-11-28,C1243,32,Male,Groceries,Bread,East,4,2770.44,0,11081.76
+345,2025-09-23,C1210,26,Male,Clothing,Jacket,East,5,3409.42,5,16194.74
+346,2026-05-29,C1093,55,Male,Home & Kitchen,Table,West,4,3207.49,20,10263.97
+347,2026-02-23,C1235,18,Male,Clothing,Shoes,North,2,107.95,15,183.52
+348,2025-05-07,C1223,42,Male,Groceries,Milk,West,5,658.87,0,3294.35
+349,2026-02-24,C1099,62,Male,Electronics,Smartphone,North,4,19430.89,10,69951.2
+350,2026-03-27,C1195,45,Female,Electronics,Smartphone,East,2,29555.25,15,50243.92
+351,2025-04-28,C1100,50,Female,Electronics,Headphones,East,7,16011.45,5,106476.14
+352,2026-02-25,C1056,18,Male,Clothing,Shoes,East,4,2181.12,15,7415.81
+353,2026-02-23,C1126,28,Male,Home & Kitchen,Table,North,5,2610.33,5,12399.07
+354,2026-03-16,C1204,55,Male,Clothing,Shoes,East,5,2678.87,15,11385.2
+355,2026-08-02,C1075,62,Female,Home & Kitchen,Mixer,South,5,4861.53,10,21876.88
+356,2025-08-22,C1051,23,Male,Groceries,Milk,North,6,4631.9,10,25012.26
+357,2025-05-05,C1037,59,Female,Groceries,Rice,North,6,693.74,5,3954.32
+358,2025-07-20,C1285,30,Male,Groceries,Bread,East,6,3034.57,15,15476.31
+359,2025-03-10,C1165,58,Male,Clothing,Shoes,North,1,1958.28,15,1664.54
+360,2026-07-08,C1109,38,Female,Clothing,T-Shirt,East,6,1272.19,10,6869.83
+361,2026-05-14,C1092,41,Male,Home & Kitchen,Mixer,East,4,4161.91,15,14150.49
+362,2026-05-24,C1273,52,Female,Electronics,Headphones,South,2,24496.0,10,44092.8
+363,2025-06-14,C1008,45,Male,Home & Kitchen,Chair,North,1,3972.98,10,3575.68
+364,2025-04-27,C1267,62,Male,Electronics,Tablet,West,6,11464.71,10,61909.43
+365,2026-06-01,C1184,37,Male,Clothing,T-Shirt,South,6,3963.02,15,20211.4
+366,2025-10-31,C1108,61,Female,Clothing,Shoes,West,6,786.54,10,4247.32
+367,2026-02-21,C1216,40,Male,Clothing,Jacket,East,7,1907.88,10,12019.64
+368,2025-03-23,C1092,64,Male,Groceries,Coffee,East,1,1843.23,0,1843.23
+369,2025-04-26,C1225,49,Female,Home & Kitchen,Table,East,5,2408.59,0,12042.95
+370,2026-05-09,C1189,48,Male,Groceries,Milk,West,3,2269.18,20,5446.03
+371,2026-07-20,C1298,38,Female,Clothing,Shoes,West,6,3454.22,10,18652.79
+372,2025-10-30,C1163,36,Female,Clothing,T-Shirt,West,3,1092.99,0,3278.97
+373,2025-03-06,C1292,42,Male,Clothing,T-Shirt,North,7,61.47,10,387.26
+374,2025-07-07,C1128,26,Male,Groceries,Rice,North,5,3779.47,20,15117.88
+375,2026-01-19,C1260,47,Male,Home & Kitchen,Table,South,2,566.8,0,1133.6
+376,2025-10-17,C1045,36,Male,Groceries,Bread,South,3,3178.84,20,7629.22
+377,2026-01-15,C1144,55,Female,Home & Kitchen,Chair,South,1,2528.09,5,2401.69
+378,2025-10-17,C1295,20,Female,Clothing,Jeans,East,5,3350.93,15,14241.45
+379,2025-08-19,C1053,56,Male,Clothing,Shoes,North,6,1367.53,20,6564.14
+380,2025-02-22,C1275,42,Female,Electronics,Smartphone,East,5,1780.09,10,8010.4
+381,2025-01-10,C1054,37,Female,Electronics,Headphones,South,7,43359.98,5,288343.87
+382,2026-02-12,C1022,47,Male,Clothing,Jeans,West,4,1211.53,20,3876.9
+383,2025-10-17,C1248,51,Male,Electronics,Headphones,East,7,36060.69,15,214561.11
+384,2025-06-03,C1274,49,Female,Electronics,Tablet,South,1,15947.58,0,15947.58
+385,2025-06-06,C1156,28,Male,Electronics,Headphones,North,2,23401.7,20,37442.72
+386,2026-03-28,C1100,35,Male,Groceries,Bread,East,1,4221.42,15,3588.21
+387,2026-02-25,C1186,40,Female,Electronics,Headphones,North,1,18927.95,15,16088.76
+388,2025-06-24,C1023,38,Male,Electronics,Tablet,East,3,42228.01,5,120349.83
+389,2026-03-28,C1281,47,Male,Electronics,Laptop,North,1,13994.13,10,12594.72
+390,2025-04-11,C1028,58,Male,Home & Kitchen,Table,East,3,3238.54,5,9229.84
+391,2026-03-31,C1013,35,Male,Home & Kitchen,Chair,North,6,3865.36,0,23192.16
+392,2025-06-15,C1100,62,Male,Home & Kitchen,Table,North,2,1099.37,0,2198.74
+393,2025-10-01,C1003,45,Female,Electronics,Smartphone,West,1,6916.39,15,5878.93
+394,2025-12-22,C1021,60,Male,Home & Kitchen,Mixer,North,4,3580.37,0,14321.48
+395,2025-02-13,C1053,27,Female,Electronics,Laptop,North,6,39122.57,20,187788.34
+396,2026-02-02,C1138,52,Male,Electronics,Smartphone,East,2,1064.45,15,1809.56
+397,2026-06-20,C1029,60,Male,Groceries,Milk,West,1,4535.03,15,3854.78
+398,2025-04-29,C1156,33,Male,Clothing,Shoes,North,2,3403.83,15,5786.51
+399,2025-06-24,C1222,58,Female,Home & Kitchen,Cookware,North,2,4292.79,20,6868.46
+400,2026-06-03,C1244,29,Female,Clothing,Jacket,West,5,1741.93,5,8274.17
+401,2025-11-03,C1160,28,Female,Groceries,Rice,North,4,2764.49,15,9399.27
+402,2025-07-14,C1157,51,Female,Groceries,Rice,West,5,2020.13,15,8585.55
+403,2026-05-31,C1090,57,Male,Electronics,Headphones,East,4,23743.11,5,90223.82
+404,2025-10-05,C1233,34,Male,Electronics,Tablet,South,4,27269.67,15,92716.88
+405,2026-01-29,C1267,30,Male,Home & Kitchen,Table,West,2,4485.57,0,8971.14
+406,2026-05-06,C1049,64,Female,Home & Kitchen,Cookware,South,7,861.21,10,5425.62
+407,2025-08-30,C1282,22,Female,Home & Kitchen,Chair,West,4,2717.12,0,10868.48
+408,2025-01-15,C1224,38,Female,Electronics,Headphones,North,6,20840.55,10,112538.97
+409,2026-08-13,C1202,63,Male,Clothing,Jeans,East,6,4044.48,5,23053.54
+410,2026-05-08,C1235,61,Male,Clothing,Jacket,North,6,4326.61,15,22065.71
+411,2026-05-07,C1070,58,Female,Home & Kitchen,Table,West,5,2659.8,15,11304.15
+412,2025-11-28,C1139,54,Male,Groceries,Coffee,South,3,4906.66,0,14719.98
+413,2025-06-03,C1260,61,Male,Groceries,Bread,North,7,1109.09,5,7375.45
+414,2025-09-02,C1247,25,Male,Groceries,Rice,South,2,3506.64,10,6311.95
+415,2026-03-03,C1039,34,Male,Home & Kitchen,Chair,West,4,1274.33,0,5097.32
+416,2025-05-17,C1074,53,Male,Home & Kitchen,Chair,West,6,4283.27,15,21844.68
+417,2025-06-19,C1252,57,Female,Home & Kitchen,Cookware,East,2,4033.53,20,6453.65
+418,2025-12-15,C1141,62,Female,Home & Kitchen,Cookware,West,3,1306.41,10,3527.31
+419,2025-05-09,C1160,42,Male,Electronics,Smartphone,East,7,45984.6,10,289702.98
+420,2025-12-25,C1091,43,Female,Electronics,Headphones,North,4,4627.01,10,16657.24
+421,2025-04-01,C1082,21,Male,Clothing,T-Shirt,South,4,1962.3,20,6279.36
+422,2025-09-23,C1203,58,Male,Electronics,Smartphone,North,2,45920.13,15,78064.22
+423,2026-08-03,C1197,28,Female,Clothing,T-Shirt,East,1,783.48,20,626.78
+424,2025-04-19,C1188,24,Male,Electronics,Headphones,East,4,37962.94,10,136666.58
+425,2025-03-25,C1242,62,Male,Groceries,Milk,West,5,2126.27,15,9036.65
+426,2026-05-09,C1271,52,Male,Electronics,Tablet,North,3,29730.74,15,75813.39
+427,2025-06-13,C1024,41,Female,Groceries,Bread,West,3,4187.34,20,10049.62
+428,2025-09-05,C1116,40,Male,Groceries,Milk,North,1,2343.3,20,1874.64
+429,2026-05-24,C1249,23,Male,Groceries,Milk,North,5,3839.46,0,19197.3
+430,2025-11-13,C1212,20,Female,Clothing,Shoes,East,7,1057.71,20,5923.18
+431,2026-05-26,C1239,58,Male,Clothing,Jacket,North,4,4835.89,10,17409.2
+432,2026-06-21,C1112,44,Male,Groceries,Milk,South,2,4485.4,20,7176.64
+433,2026-07-05,C1016,39,Male,Electronics,Smartphone,South,3,49977.24,15,127441.96
+434,2025-07-21,C1032,51,Male,Electronics,Tablet,South,1,19096.42,5,18141.6
+435,2026-07-14,C1111,42,Male,Electronics,Laptop,North,3,31458.86,0,94376.58
+436,2026-07-17,C1292,34,Male,Electronics,Smartphone,East,1,25741.34,0,25741.34
+437,2025-07-17,C1001,64,Male,Home & Kitchen,Chair,South,7,3585.92,10,22591.3
+438,2026-04-22,C1073,30,Female,Groceries,Rice,South,6,1755.79,5,10008.0
+439,2025-03-17,C1175,62,Male,Home & Kitchen,Cookware,West,5,4289.86,0,21449.3
+440,2026-06-28,C1128,21,Female,Electronics,Laptop,North,3,24176.77,15,61650.76
+441,2025-09-27,C1162,21,Female,Groceries,Bread,East,4,665.7,5,2529.66
+442,2025-06-17,C1193,22,Male,Electronics,Headphones,West,6,27366.87,0,164201.22
+443,2026-08-15,C1043,27,Male,Clothing,Shoes,West,5,4809.49,10,21642.7
+444,2025-11-09,C1007,31,Female,Groceries,Coffee,East,4,1485.73,10,5348.63
+445,2026-05-15,C1124,50,Male,Groceries,Milk,West,7,4535.13,5,30158.61
+446,2026-02-05,C1097,22,Male,Clothing,T-Shirt,West,3,997.57,15,2543.8
+447,2025-11-14,C1050,65,Male,Clothing,T-Shirt,East,6,1273.3,0,7639.8
+448,2025-10-16,C1141,37,Female,Clothing,T-Shirt,East,3,330.1,15,841.76
+449,2026-02-08,C1029,41,Female,Groceries,Bread,East,6,3915.93,20,18796.46
+450,2025-07-21,C1017,19,Female,Clothing,T-Shirt,South,1,106.83,20,85.46
+451,2026-04-19,C1219,29,Male,Electronics,Tablet,East,6,27819.22,5,158569.55
+452,2026-08-09,C1166,39,Female,Groceries,Milk,East,2,2441.05,5,4638.0
+453,2026-07-07,C1148,61,Male,Groceries,Bread,West,3,424.14,15,1081.56
+454,2025-05-14,C1207,44,Female,Groceries,Bread,North,2,1373.64,5,2609.92
+455,2025-02-28,C1258,46,Female,Electronics,Tablet,North,6,15714.08,15,80141.81
+456,2026-07-14,C1248,39,Female,Groceries,Milk,South,1,816.4,10,734.76
+457,2025-10-28,C1068,24,Male,Clothing,T-Shirt,North,5,2070.35,0,10351.75
+458,2025-08-25,C1046,59,Female,Home & Kitchen,Table,West,1,1141.39,0,1141.39
+459,2025-02-23,C1178,52,Female,Clothing,Shoes,East,6,554.37,5,3159.91
+460,2026-08-28,C1073,44,Female,Electronics,Headphones,East,1,21757.65,15,18494.0
+461,2025-06-19,C1212,62,Female,Home & Kitchen,Cookware,East,1,2757.04,0,2757.04
+462,2025-02-16,C1063,50,Male,Electronics,Laptop,South,7,2595.93,15,15445.78
+463,2025-11-10,C1161,28,Female,Electronics,Headphones,South,2,3220.06,20,5152.1
+464,2025-06-13,C1077,63,Male,Clothing,Shoes,South,7,4200.53,10,26463.34
+465,2026-05-09,C1209,26,Male,Clothing,T-Shirt,South,7,3702.69,10,23326.95
+466,2026-07-03,C1137,35,Female,Groceries,Rice,East,7,1380.82,15,8215.88
+467,2025-07-07,C1230,57,Female,Electronics,Smartphone,South,5,43698.77,10,196644.46
+468,2025-03-04,C1150,28,Female,Home & Kitchen,Table,North,5,3930.74,5,18671.01
+469,2025-03-29,C1207,18,Male,Electronics,Tablet,East,6,25181.3,20,120870.24
+470,2025-01-21,C1242,24,Male,Clothing,Jeans,North,2,2073.45,20,3317.52
+471,2025-05-09,C1196,29,Female,Groceries,Coffee,East,3,596.64,20,1431.94
+472,2025-11-15,C1052,41,Male,Home & Kitchen,Chair,North,7,1311.67,20,7345.35
+473,2025-06-26,C1295,33,Male,Groceries,Milk,North,7,4766.43,15,28360.26
+474,2026-07-01,C1039,39,Male,Electronics,Laptop,South,1,3974.27,20,3179.42
+475,2026-02-18,C1214,26,Male,Electronics,Smartphone,East,7,41911.63,10,264043.27
+476,2026-05-10,C1112,40,Male,Electronics,Headphones,North,5,36124.27,15,153528.15
+477,2025-01-18,C1094,39,Female,Groceries,Coffee,North,5,3607.76,15,15332.98
+478,2026-05-14,C1122,27,Male,Clothing,T-Shirt,West,6,870.45,5,4961.57
+479,2025-01-11,C1206,56,Male,Groceries,Coffee,East,2,2620.16,15,4454.27
+480,2026-08-07,C1137,64,Male,Clothing,Jacket,South,3,1711.59,15,4364.55
+481,2026-03-25,C1141,18,Female,Electronics,Headphones,North,3,34851.85,5,99327.77
+482,2025-11-13,C1295,41,Female,Home & Kitchen,Table,North,5,3498.3,20,13993.2
+483,2025-01-07,C1103,18,Male,Groceries,Rice,South,5,3835.76,10,17260.92
+484,2025-07-26,C1029,60,Female,Electronics,Headphones,South,1,33695.0,10,30325.5
+485,2025-04-03,C1086,33,Male,Home & Kitchen,Cookware,East,1,3670.02,0,3670.02
+486,2025-12-05,C1147,19,Male,Home & Kitchen,Table,North,6,3968.21,20,19047.41
+487,2025-08-20,C1146,65,Female,Groceries,Bread,West,3,424.71,0,1274.13
+488,2025-10-19,C1220,62,Female,Home & Kitchen,Chair,South,6,1977.55,0,11865.3
+489,2025-11-19,C1003,31,Female,Electronics,Laptop,West,6,21730.26,20,104305.25
+490,2025-05-02,C1107,49,Male,Groceries,Bread,South,6,1903.68,15,9708.77
+491,2025-12-14,C1159,51,Male,Groceries,Milk,West,6,4219.51,0,25317.06
+492,2025-09-07,C1295,49,Female,Groceries,Coffee,West,1,2926.02,0,2926.02
+493,2026-06-25,C1059,24,Female,Electronics,Headphones,North,5,10441.39,15,44375.91
+494,2026-02-04,C1215,48,Male,Groceries,Coffee,North,6,3762.39,0,22574.34
+495,2026-04-15,C1062,59,Female,Home & Kitchen,Chair,South,4,4270.3,20,13664.96
+496,2025-02-09,C1237,19,Female,Electronics,Laptop,South,3,13620.04,10,36774.11
+497,2026-05-29,C1178,29,Male,Home & Kitchen,Chair,South,4,3741.48,0,14965.92
+498,2025-08-27,C1195,55,Male,Groceries,Milk,South,6,3991.4,0,23948.4
+499,2026-01-13,C1110,30,Male,Electronics,Laptop,West,6,13548.64,15,69098.06
+500,2026-04-25,C1279,23,Female,Groceries,Milk,West,2,3326.75,15,5655.48
+501,2026-01-27,C1257,54,Male,Clothing,T-Shirt,South,4,1873.32,15,6369.29
+502,2025-04-30,C1178,65,Female,Clothing,T-Shirt,North,5,4447.9,20,17791.6
+503,2026-03-31,C1104,30,Female,Home & Kitchen,Chair,South,3,2595.3,20,6228.72
+504,2026-07-04,C1176,44,Female,Clothing,Shoes,West,3,4072.93,20,9775.03
+505,2026-04-03,C1163,48,Male,Groceries,Rice,West,7,4016.67,20,22493.35
+506,2026-05-14,C1291,39,Female,Electronics,Laptop,East,1,48061.85,10,43255.66
+507,2025-07-26,C1256,60,Female,Clothing,Shoes,East,2,3545.48,15,6027.32
+508,2025-12-05,C1025,21,Male,Groceries,Coffee,North,5,4328.94,5,20562.46
+509,2025-10-03,C1048,36,Male,Groceries,Bread,West,3,3396.82,20,8152.37
+510,2025-07-10,C1051,38,Female,Groceries,Milk,South,2,1742.43,20,2787.89
+511,2025-01-14,C1203,49,Male,Home & Kitchen,Chair,North,1,2332.78,0,2332.78
+512,2025-10-04,C1133,40,Male,Clothing,Jacket,East,7,4325.03,10,27247.69
+513,2025-03-05,C1260,18,Male,Groceries,Rice,West,1,395.51,10,355.96
+514,2025-04-03,C1142,37,Female,Home & Kitchen,Chair,West,6,2919.64,0,17517.84
+515,2025-10-23,C1118,37,Female,Electronics,Headphones,South,3,35012.01,15,89280.63
+516,2026-03-14,C1026,28,Female,Groceries,Coffee,West,2,2039.34,20,3262.94
+517,2025-10-23,C1209,37,Female,Home & Kitchen,Table,East,6,3528.07,20,16934.74
+518,2025-08-27,C1155,40,Female,Home & Kitchen,Chair,West,6,3004.04,20,14419.39
+519,2025-08-22,C1239,48,Male,Groceries,Rice,North,3,1042.74,20,2502.58
+520,2026-01-15,C1231,29,Male,Home & Kitchen,Table,North,7,3890.76,15,23150.02
+521,2025-04-08,C1071,61,Female,Home & Kitchen,Chair,South,6,1564.95,10,8450.73
+522,2026-07-18,C1271,54,Female,Groceries,Coffee,East,2,1379.38,5,2620.82
+523,2025-02-25,C1110,25,Male,Electronics,Smartphone,South,1,48391.3,15,41132.61
+524,2026-02-24,C1125,30,Female,Home & Kitchen,Cookware,West,2,1319.49,0,2638.98
+525,2025-06-15,C1278,19,Male,Electronics,Smartphone,East,6,44922.08,5,256055.86
+526,2025-07-11,C1266,57,Female,Groceries,Coffee,South,6,4028.83,20,19338.38
+527,2025-03-06,C1247,48,Male,Home & Kitchen,Table,South,4,1404.52,0,5618.08
+528,2025-03-30,C1176,35,Male,Electronics,Headphones,West,2,14167.76,5,26918.74
+529,2025-02-01,C1040,37,Female,Home & Kitchen,Mixer,East,7,1036.27,20,5803.11
+530,2026-03-04,C1038,36,Female,Electronics,Smartphone,East,5,37107.91,15,157708.62
+531,2025-07-06,C1224,57,Male,Electronics,Headphones,North,2,6249.31,15,10623.83
+532,2025-07-07,C1270,48,Female,Electronics,Laptop,West,5,25556.4,20,102225.6
+533,2026-05-01,C1191,55,Female,Home & Kitchen,Table,West,1,3720.93,10,3348.84
+534,2026-02-10,C1096,55,Female,Electronics,Smartphone,East,3,11013.62,20,26432.69
+535,2026-01-22,C1256,29,Male,Home & Kitchen,Chair,East,1,3938.93,10,3545.04
+536,2025-12-11,C1127,58,Male,Groceries,Rice,South,7,1721.36,15,10242.09
+537,2026-06-09,C1045,59,Female,Electronics,Smartphone,North,4,12558.48,15,42698.83
+538,2026-04-26,C1273,41,Female,Home & Kitchen,Cookware,West,5,1198.68,15,5094.39
+539,2026-04-19,C1111,30,Male,Clothing,Jacket,North,5,4726.1,10,21267.45
+540,2026-05-26,C1286,56,Male,Electronics,Tablet,West,1,35154.17,5,33396.46
+541,2025-06-20,C1094,38,Female,Clothing,T-Shirt,East,6,4146.39,20,19902.67
+542,2025-06-29,C1202,61,Male,Electronics,Tablet,North,3,30794.94,0,92384.82
+543,2025-11-04,C1137,64,Male,Groceries,Coffee,West,4,1428.43,0,5713.72
+544,2026-04-26,C1237,31,Male,Groceries,Bread,North,2,1116.73,15,1898.44
+545,2025-04-17,C1232,59,Female,Home & Kitchen,Cookware,East,3,908.81,0,2726.43
+546,2026-02-20,C1221,38,Male,Groceries,Bread,West,3,3275.0,0,9825.0
+547,2026-05-08,C1192,25,Male,Groceries,Coffee,North,6,1861.13,20,8933.42
+548,2025-04-25,C1063,57,Male,Groceries,Bread,East,3,1497.96,20,3595.1
+549,2026-07-04,C1119,54,Male,Home & Kitchen,Table,West,1,3284.25,15,2791.61
+550,2025-02-27,C1269,49,Male,Home & Kitchen,Chair,North,2,4569.01,15,7767.32
+551,2025-09-09,C1238,57,Female,Home & Kitchen,Table,East,4,4951.04,5,18813.95
+552,2026-03-23,C1208,21,Female,Home & Kitchen,Mixer,West,2,1749.76,0,3499.52
+553,2025-10-14,C1142,62,Male,Groceries,Rice,East,7,855.82,15,5092.13
+554,2025-03-14,C1282,37,Female,Clothing,Jacket,West,2,74.88,5,142.27
+555,2025-10-10,C1113,32,Male,Clothing,Jacket,West,3,1506.62,10,4067.87
+556,2025-12-17,C1140,40,Female,Electronics,Laptop,East,4,20618.75,5,78351.25
+557,2026-01-13,C1149,42,Female,Home & Kitchen,Table,North,1,2228.29,5,2116.88
+558,2025-10-21,C1253,32,Female,Home & Kitchen,Chair,South,5,3687.88,0,18439.4
+559,2025-03-11,C1113,60,Female,Clothing,Shoes,West,7,2197.53,20,12306.17
+560,2025-07-11,C1040,27,Male,Groceries,Bread,West,4,2928.01,20,9369.63
+561,2025-08-25,C1181,54,Female,Electronics,Tablet,East,7,12771.49,20,71520.34
+562,2026-05-29,C1188,47,Male,Electronics,Smartphone,West,5,11391.14,10,51260.13
+563,2026-03-21,C1220,47,Male,Home & Kitchen,Cookware,East,7,903.99,10,5695.14
+564,2025-09-04,C1031,42,Female,Groceries,Milk,North,5,1238.35,5,5882.16
+565,2025-07-10,C1182,59,Male,Groceries,Milk,East,5,3089.15,0,15445.75
+566,2026-06-13,C1090,30,Male,Electronics,Smartphone,South,6,44804.62,0,268827.72
+567,2026-01-01,C1014,64,Female,Electronics,Tablet,North,6,45653.33,10,246527.98
+568,2026-02-19,C1245,52,Female,Groceries,Milk,South,5,1953.82,0,9769.1
+569,2025-01-26,C1005,43,Female,Electronics,Smartphone,South,2,34224.94,0,68449.88
+570,2025-09-06,C1014,31,Male,Clothing,Jacket,East,2,4857.2,0,9714.4
+571,2026-02-23,C1100,52,Female,Home & Kitchen,Cookware,South,7,2585.89,10,16291.11
+572,2025-02-19,C1065,52,Female,Home & Kitchen,Cookware,West,5,2218.97,10,9985.36
+573,2026-04-08,C1239,21,Female,Electronics,Smartphone,East,2,26935.37,20,43096.59
+574,2025-10-11,C1237,19,Male,Home & Kitchen,Cookware,East,6,823.6,5,4694.52
+575,2026-05-02,C1045,19,Female,Clothing,Shoes,East,7,3670.86,0,25696.02
+576,2025-11-09,C1286,27,Female,Home & Kitchen,Cookware,South,3,1929.1,20,4629.84
+577,2025-06-20,C1173,40,Male,Clothing,T-Shirt,South,5,2170.87,15,9226.2
+578,2025-01-04,C1093,40,Female,Clothing,Shoes,West,2,1223.87,15,2080.58
+579,2025-07-21,C1212,23,Female,Clothing,Jeans,West,7,2445.9,0,17121.3
+580,2026-02-05,C1096,21,Male,Groceries,Bread,West,3,4151.02,10,11207.75
+581,2026-06-18,C1193,37,Female,Electronics,Laptop,West,3,17355.72,10,46860.44
+582,2026-01-28,C1076,40,Female,Groceries,Bread,North,5,4952.14,10,22284.63
+583,2025-03-24,C1125,64,Male,Clothing,T-Shirt,East,3,4695.72,5,13382.8
+584,2025-08-25,C1248,65,Male,Home & Kitchen,Cookware,North,7,2115.11,15,12584.9
+585,2026-08-29,C1127,58,Male,Clothing,Jeans,South,2,466.43,5,886.22
+586,2026-06-07,C1085,38,Female,Groceries,Coffee,North,2,430.2,10,774.36
+587,2025-05-01,C1298,35,Female,Groceries,Bread,East,1,1195.8,5,1136.01
+588,2025-07-06,C1144,23,Male,Groceries,Coffee,West,1,97.95,10,88.16
+589,2025-11-29,C1246,19,Female,Groceries,Bread,East,7,249.28,15,1483.22
+590,2025-01-12,C1141,60,Male,Groceries,Bread,East,7,1393.89,15,8293.65
+591,2025-03-31,C1208,53,Female,Electronics,Laptop,South,4,40883.54,20,130827.33
+592,2025-03-12,C1180,54,Male,Electronics,Headphones,East,4,14437.6,5,54862.88
+593,2026-04-06,C1106,38,Female,Groceries,Coffee,North,7,2673.21,10,16841.22
+594,2025-06-13,C1224,33,Female,Groceries,Bread,North,4,2759.7,0,11038.8
+595,2026-03-03,C1221,53,Female,Clothing,Shoes,West,6,1989.96,5,11342.77
+596,2026-07-04,C1070,64,Male,Home & Kitchen,Table,North,4,654.45,10,2356.02
+597,2026-08-10,C1165,39,Female,Home & Kitchen,Mixer,West,4,572.68,20,1832.58
+598,2026-08-30,C1135,21,Male,Electronics,Tablet,South,2,1598.06,0,3196.12
+599,2026-02-19,C1095,49,Female,Clothing,Jacket,East,3,2910.14,20,6984.34
+600,2025-05-24,C1016,63,Male,Home & Kitchen,Chair,North,2,3112.92,0,6225.84
+601,2025-01-04,C1095,34,Male,Groceries,Bread,East,1,689.41,20,551.53
+602,2026-01-21,C1106,41,Female,Home & Kitchen,Cookware,West,1,3277.86,20,2622.29
+603,2025-11-27,C1195,29,Male,Groceries,Milk,South,3,4896.8,10,13221.36
+604,2025-11-12,C1182,47,Female,Groceries,Rice,South,6,3035.59,5,17302.86
+605,2025-12-27,C1042,64,Male,Home & Kitchen,Mixer,South,5,2347.13,5,11148.87
+606,2025-12-29,C1283,58,Female,Home & Kitchen,Mixer,South,6,653.94,5,3727.46
+607,2026-08-11,C1201,27,Female,Home & Kitchen,Chair,North,1,4647.85,0,4647.85
+608,2025-11-17,C1124,53,Female,Clothing,Shoes,South,4,2439.43,5,9269.83
+609,2025-10-12,C1015,29,Male,Groceries,Milk,West,7,4037.35,5,26848.38
+610,2025-05-08,C1150,23,Female,Home & Kitchen,Mixer,North,7,2526.38,5,16800.43
+611,2025-12-22,C1217,49,Male,Home & Kitchen,Chair,North,6,3934.61,20,18886.13
+612,2025-05-03,C1187,22,Female,Home & Kitchen,Cookware,North,2,2926.92,20,4683.07
+613,2025-12-03,C1087,31,Male,Home & Kitchen,Table,East,6,2239.71,15,11422.52
+614,2025-11-06,C1044,51,Male,Clothing,Shoes,North,7,517.37,0,3621.59
+615,2025-07-25,C1043,50,Male,Groceries,Coffee,East,7,3658.25,10,23046.98
+616,2025-09-08,C1212,52,Male,Groceries,Rice,North,4,1309.68,20,4190.98
+617,2026-05-23,C1219,42,Female,Electronics,Smartphone,East,7,27488.75,5,182800.19
+618,2026-07-20,C1054,43,Female,Electronics,Tablet,East,4,4922.58,10,17721.29
+619,2026-03-13,C1111,18,Male,Home & Kitchen,Chair,South,3,4071.75,5,11604.49
+620,2025-05-11,C1188,52,Male,Electronics,Tablet,East,6,29655.84,10,160141.54
+621,2025-08-31,C1275,55,Male,Home & Kitchen,Cookware,North,4,3518.03,0,14072.12
+622,2025-02-21,C1111,62,Female,Groceries,Rice,East,5,177.16,15,752.93
+623,2025-01-26,C1299,30,Female,Groceries,Coffee,North,4,2777.7,5,10555.26
+624,2025-07-26,C1267,43,Female,Home & Kitchen,Cookware,East,3,4170.47,10,11260.27
+625,2026-01-04,C1220,18,Male,Groceries,Milk,West,2,2515.74,15,4276.76
+626,2025-12-25,C1154,55,Female,Home & Kitchen,Table,West,4,3664.6,10,13192.56
+627,2026-08-23,C1208,30,Male,Groceries,Bread,North,5,2672.08,20,10688.32
+628,2025-03-16,C1007,63,Female,Clothing,Jeans,East,1,4834.41,15,4109.25
+629,2026-06-24,C1235,64,Male,Home & Kitchen,Chair,South,1,1291.85,5,1227.26
+630,2025-11-30,C1035,47,Female,Electronics,Smartphone,North,5,17031.33,15,72383.15
+631,2025-03-20,C1110,42,Male,Groceries,Coffee,South,6,1805.91,20,8668.37
+632,2026-05-21,C1087,42,Female,Clothing,Jacket,East,7,3101.32,15,18452.85
+633,2026-03-17,C1230,44,Female,Clothing,T-Shirt,North,2,1028.31,5,1953.79
+634,2026-03-03,C1218,21,Male,Electronics,Tablet,East,5,33813.5,15,143707.38
+635,2025-10-19,C1244,60,Male,Clothing,Jeans,West,1,538.04,20,430.43
+636,2026-06-12,C1047,48,Female,Clothing,T-Shirt,North,2,901.83,20,1442.93
+637,2026-06-26,C1158,39,Male,Electronics,Headphones,South,6,37781.17,0,226687.02
+638,2025-09-12,C1253,18,Male,Home & Kitchen,Cookware,South,6,1830.98,5,10436.59
+639,2026-08-21,C1019,54,Female,Clothing,Jacket,East,2,926.91,15,1575.75
+640,2025-08-17,C1012,47,Male,Clothing,T-Shirt,East,6,3377.64,0,20265.84
+641,2025-06-10,C1235,32,Female,Electronics,Smartphone,West,5,744.07,20,2976.28
+642,2025-05-15,C1171,35,Female,Groceries,Rice,South,4,320.1,10,1152.36
+643,2026-06-07,C1068,35,Female,Electronics,Smartphone,North,1,41785.09,5,39695.84
+644,2025-01-25,C1185,38,Male,Clothing,T-Shirt,East,6,1129.96,5,6440.77
+645,2025-06-28,C1119,26,Female,Home & Kitchen,Table,North,6,864.91,15,4411.04
+646,2025-02-22,C1251,56,Female,Clothing,Shoes,East,5,3041.58,5,14447.5
+647,2025-12-14,C1029,32,Male,Groceries,Rice,South,3,858.67,10,2318.41
+648,2025-03-08,C1008,37,Male,Home & Kitchen,Table,West,6,2582.95,10,13947.93
+649,2025-07-14,C1009,31,Male,Groceries,Rice,North,3,402.22,20,965.33
+650,2026-03-01,C1278,41,Male,Electronics,Headphones,North,7,38912.78,5,258769.99
+651,2025-11-02,C1012,42,Male,Home & Kitchen,Mixer,West,2,4732.56,0,9465.12
+652,2025-06-20,C1134,64,Male,Clothing,Jeans,East,6,1266.94,0,7601.64
+653,2025-11-11,C1092,44,Female,Electronics,Smartphone,East,6,19168.76,15,97760.68
+654,2025-09-06,C1006,33,Female,Electronics,Tablet,West,4,29022.99,15,98678.17
+655,2025-05-28,C1118,35,Male,Groceries,Milk,South,5,1222.77,0,6113.85
+656,2026-05-10,C1114,64,Male,Clothing,Jeans,East,7,606.2,15,3606.89
+657,2025-01-14,C1045,61,Female,Groceries,Bread,North,3,1658.37,5,4726.35
+658,2025-03-17,C1220,45,Female,Electronics,Headphones,East,3,48913.21,10,132065.67
+659,2025-05-06,C1177,54,Female,Electronics,Headphones,East,4,40227.86,20,128729.15
+660,2025-12-09,C1150,33,Female,Clothing,Jacket,West,3,2325.24,20,5580.58
+661,2026-03-15,C1214,38,Female,Groceries,Coffee,West,5,708.4,15,3010.7
+662,2025-03-05,C1158,30,Male,Electronics,Laptop,South,1,10494.94,10,9445.45
+663,2026-04-11,C1088,64,Female,Groceries,Bread,East,1,3296.72,10,2967.05
+664,2025-12-13,C1137,62,Male,Clothing,Jacket,East,2,264.41,10,475.94
+665,2025-04-11,C1246,45,Male,Electronics,Smartphone,West,5,24460.07,15,103955.3
+666,2025-05-14,C1249,55,Female,Electronics,Smartphone,North,1,16020.35,0,16020.35
+667,2025-12-21,C1225,41,Male,Groceries,Milk,South,2,4710.3,20,7536.48
+668,2025-02-04,C1190,18,Female,Home & Kitchen,Mixer,North,4,2066.46,20,6612.67
+669,2025-12-11,C1226,46,Male,Electronics,Laptop,East,4,6172.6,5,23455.88
+670,2025-02-11,C1236,57,Male,Groceries,Rice,South,6,4569.56,0,27417.36
+671,2025-03-11,C1048,60,Male,Clothing,T-Shirt,East,5,2990.54,20,11962.16
+672,2026-08-23,C1244,26,Male,Clothing,Jeans,East,6,3588.75,5,20455.88
+673,2026-01-23,C1209,33,Male,Home & Kitchen,Table,East,1,1578.57,5,1499.64
+674,2025-03-20,C1146,64,Female,Electronics,Tablet,North,5,22980.08,15,97665.34
+675,2025-04-05,C1105,25,Male,Electronics,Tablet,West,2,36822.31,20,58915.7
+676,2026-04-30,C1298,30,Female,Groceries,Milk,West,1,731.27,10,658.14
+677,2025-11-04,C1199,19,Female,Electronics,Tablet,West,5,12029.41,0,60147.05
+678,2025-05-31,C1157,31,Female,Home & Kitchen,Table,East,7,4883.98,20,27350.29
+679,2025-07-02,C1209,62,Female,Electronics,Headphones,North,7,34613.62,5,230180.57
+680,2025-04-09,C1082,28,Female,Electronics,Smartphone,West,7,31637.76,10,199317.89
+681,2026-04-12,C1144,41,Male,Home & Kitchen,Mixer,West,3,2021.49,15,5154.8
+682,2026-04-12,C1100,24,Female,Groceries,Rice,East,4,4490.13,0,17960.52
+683,2026-08-07,C1210,45,Female,Electronics,Laptop,West,7,13444.02,10,84697.33
+684,2025-01-07,C1155,27,Female,Groceries,Milk,West,1,1547.21,20,1237.77
+685,2025-05-06,C1174,41,Male,Electronics,Smartphone,South,2,47256.7,20,75610.72
+686,2025-03-16,C1166,31,Male,Groceries,Bread,South,6,1594.72,10,8611.49
+687,2025-11-24,C1179,37,Female,Home & Kitchen,Mixer,West,6,3328.45,10,17973.63
+688,2025-07-10,C1200,21,Male,Clothing,Jacket,East,7,701.85,0,4912.95
+689,2025-01-01,C1219,33,Female,Groceries,Milk,East,5,315.49,10,1419.71
+690,2026-07-29,C1165,58,Male,Home & Kitchen,Table,East,1,4111.73,5,3906.14
+691,2026-01-07,C1175,52,Female,Electronics,Headphones,South,5,49063.96,10,220787.82
+692,2025-01-24,C1116,40,Female,Groceries,Coffee,South,5,4614.85,0,23074.25
+693,2025-09-28,C1050,53,Male,Clothing,Jeans,West,2,283.62,10,510.52
+694,2026-05-03,C1189,49,Female,Groceries,Bread,South,6,4713.19,0,28279.14
+695,2025-11-30,C1098,35,Female,Home & Kitchen,Mixer,East,5,4880.11,15,20740.47
+696,2026-07-04,C1014,25,Male,Electronics,Headphones,South,7,6182.22,0,43275.54
+697,2025-12-06,C1085,39,Male,Clothing,T-Shirt,North,5,3332.57,20,13330.28
+698,2025-09-30,C1130,21,Male,Home & Kitchen,Chair,East,2,3384.06,10,6091.31
+699,2025-11-21,C1069,37,Female,Clothing,Jeans,West,6,1592.28,0,9553.68
+700,2026-03-02,C1185,19,Male,Groceries,Rice,East,5,1061.0,20,4244.0
+701,2026-02-26,C1251,63,Male,Home & Kitchen,Chair,South,6,3724.35,20,17876.88
+702,2025-09-17,C1125,35,Male,Groceries,Rice,East,7,2181.15,15,12977.84
+703,2026-03-15,C1228,23,Female,Groceries,Coffee,West,1,3607.65,0,3607.65
+704,2025-01-13,C1018,30,Male,Clothing,Jacket,North,2,989.88,0,1979.76
+705,2025-07-01,C1286,51,Female,Groceries,Bread,West,5,2569.03,5,12202.89
+706,2025-07-12,C1068,63,Male,Groceries,Bread,West,2,4935.13,5,9376.75
+707,2026-03-07,C1298,23,Female,Clothing,Jacket,West,5,3546.54,0,17732.7
+708,2026-01-04,C1024,64,Male,Home & Kitchen,Table,East,6,4959.85,0,29759.1
+709,2026-07-28,C1286,46,Female,Clothing,Jacket,East,1,1492.24,10,1343.02
+710,2026-06-27,C1158,65,Female,Home & Kitchen,Chair,East,5,3700.18,5,17575.85
+711,2025-07-26,C1110,39,Male,Clothing,T-Shirt,West,6,1635.99,0,9815.94
+712,2025-04-24,C1198,54,Male,Groceries,Bread,East,1,399.15,10,359.24
+713,2025-03-02,C1054,57,Female,Electronics,Headphones,West,5,42996.3,15,182734.28
+714,2025-09-30,C1187,40,Male,Home & Kitchen,Mixer,West,4,4677.24,10,16838.06
+715,2026-03-28,C1206,31,Female,Electronics,Headphones,East,4,14519.53,20,46462.5
+716,2025-03-22,C1140,23,Female,Home & Kitchen,Table,West,2,879.45,20,1407.12
+717,2025-02-27,C1198,36,Female,Electronics,Tablet,South,1,7873.09,20,6298.47
+718,2026-01-26,C1044,44,Female,Electronics,Laptop,North,7,47545.85,20,266256.76
+719,2025-07-04,C1069,19,Male,Groceries,Coffee,South,5,4271.99,10,19223.95
+720,2025-06-03,C1035,32,Male,Electronics,Tablet,East,7,31050.04,20,173880.22
+721,2025-11-10,C1032,48,Female,Electronics,Smartphone,East,1,46909.4,10,42218.46
+722,2026-06-02,C1103,27,Male,Groceries,Rice,South,1,2831.23,15,2406.55
+723,2025-07-28,C1097,27,Male,Clothing,Jeans,East,4,2782.08,15,9459.07
+724,2025-02-01,C1015,44,Female,Groceries,Milk,North,3,3231.84,0,9695.52
+725,2025-10-19,C1114,24,Male,Home & Kitchen,Chair,East,3,4014.65,5,11441.75
+726,2025-03-15,C1025,54,Female,Electronics,Headphones,East,4,1364.9,5,5186.62
+727,2025-08-17,C1130,49,Male,Electronics,Smartphone,West,1,4120.98,0,4120.98
+728,2025-04-27,C1094,57,Female,Clothing,Shoes,East,1,1747.05,0,1747.05
+729,2025-10-01,C1042,65,Female,Electronics,Laptop,North,2,44235.49,5,84047.43
+730,2025-06-06,C1223,21,Female,Electronics,Smartphone,East,1,18666.9,0,18666.9
+731,2025-07-24,C1079,44,Male,Home & Kitchen,Cookware,West,7,4410.43,0,30873.01
+732,2025-06-03,C1154,63,Female,Electronics,Headphones,North,3,4446.75,5,12673.24
+733,2025-09-30,C1076,20,Male,Clothing,Shoes,North,5,992.17,0,4960.85
+734,2025-02-15,C1189,18,Male,Groceries,Milk,North,3,4929.55,15,12570.35
+735,2025-05-14,C1148,33,Male,Clothing,Jeans,North,2,2937.94,15,4994.5
+736,2026-06-22,C1121,62,Female,Clothing,Jacket,East,2,1060.12,0,2120.24
+737,2026-05-29,C1108,47,Male,Groceries,Coffee,West,4,3589.87,10,12923.53
+738,2025-10-09,C1149,45,Female,Clothing,Shoes,West,1,3551.03,5,3373.48
+739,2025-12-03,C1254,65,Female,Home & Kitchen,Chair,South,2,4887.55,20,7820.08
+740,2025-11-18,C1100,31,Female,Home & Kitchen,Cookware,East,3,4696.64,15,11976.43
+741,2025-07-11,C1278,35,Female,Clothing,Shoes,West,5,2602.6,20,10410.4
+742,2025-03-25,C1155,60,Male,Groceries,Milk,West,6,1662.83,10,8979.28
+743,2026-01-13,C1069,40,Male,Groceries,Bread,North,5,950.0,10,4275.0
+744,2025-06-03,C1149,28,Female,Electronics,Headphones,West,3,9904.7,0,29714.1
+745,2025-12-30,C1119,63,Female,Clothing,Shoes,North,5,2205.21,5,10474.75
+746,2026-05-31,C1106,38,Female,Clothing,Jeans,North,1,650.45,10,585.41
+747,2025-03-22,C1262,25,Male,Home & Kitchen,Chair,East,5,664.33,15,2823.4
+748,2025-01-02,C1008,28,Female,Groceries,Bread,North,1,3032.22,0,3032.22
+749,2026-04-22,C1253,31,Female,Home & Kitchen,Chair,South,5,4035.61,15,17151.34
+750,2026-04-23,C1167,37,Female,Clothing,T-Shirt,East,6,2812.95,5,16033.81
+751,2026-07-10,C1086,61,Female,Groceries,Rice,East,1,3637.25,20,2909.8
+752,2025-10-21,C1051,27,Female,Clothing,Jeans,West,6,2786.43,5,15882.65
+753,2026-03-19,C1018,45,Male,Electronics,Tablet,West,6,30747.89,0,184487.34
+754,2025-06-29,C1032,59,Female,Home & Kitchen,Cookware,North,2,1015.04,0,2030.08
+755,2026-07-30,C1232,50,Male,Groceries,Bread,South,2,2041.42,20,3266.27
+756,2026-03-11,C1246,35,Female,Clothing,Jacket,South,1,1996.64,15,1697.14
+757,2025-12-09,C1177,28,Female,Home & Kitchen,Cookware,South,5,4429.8,20,17719.2
+758,2025-02-11,C1210,54,Female,Clothing,Shoes,East,1,3023.92,0,3023.92
+759,2025-05-20,C1280,51,Male,Clothing,Jacket,North,3,1445.5,0,4336.5
+760,2026-02-18,C1182,30,Male,Home & Kitchen,Chair,North,1,2759.26,5,2621.3
+761,2025-04-18,C1156,35,Male,Groceries,Milk,North,3,556.72,15,1419.64
+762,2025-03-29,C1204,33,Male,Clothing,Shoes,West,2,102.23,5,194.24
+763,2026-02-01,C1005,28,Female,Clothing,Shoes,West,1,2061.76,20,1649.41
+764,2025-02-09,C1255,32,Female,Electronics,Laptop,West,5,15879.13,5,75425.87
+765,2025-01-26,C1151,46,Male,Electronics,Smartphone,West,1,10530.95,15,8951.31
+766,2025-05-24,C1189,21,Female,Electronics,Laptop,West,1,49234.26,20,39387.41
+767,2026-08-25,C1256,65,Male,Groceries,Rice,West,2,220.43,15,374.73
+768,2025-11-08,C1099,22,Female,Electronics,Tablet,South,5,45670.16,15,194098.18
+769,2026-08-13,C1075,59,Female,Clothing,T-Shirt,West,7,4709.61,5,31318.91
+770,2025-11-03,C1074,60,Male,Electronics,Laptop,East,7,35070.34,20,196393.9
+771,2026-06-06,C1004,48,Female,Clothing,Jacket,West,5,2025.67,10,9115.52
+772,2026-02-24,C1101,20,Male,Home & Kitchen,Cookware,North,1,2055.49,5,1952.72
+773,2025-08-14,C1105,31,Female,Electronics,Smartphone,North,3,47389.54,0,142168.62
+774,2025-12-02,C1076,22,Female,Electronics,Headphones,South,5,12202.96,15,51862.58
+775,2025-06-19,C1246,56,Female,Electronics,Headphones,North,2,6000.1,10,10800.18
+776,2025-02-28,C1199,40,Female,Clothing,Jeans,North,7,2125.71,0,14879.97
+777,2026-01-15,C1080,64,Male,Home & Kitchen,Cookware,East,7,3997.1,10,25181.73
+778,2025-08-02,C1114,29,Male,Groceries,Coffee,North,6,1960.95,15,10000.85
+779,2025-09-03,C1084,32,Male,Home & Kitchen,Cookware,West,7,4376.37,5,29102.86
+780,2025-02-06,C1045,35,Female,Home & Kitchen,Mixer,South,5,1489.84,5,7076.74
+781,2025-10-27,C1007,61,Male,Home & Kitchen,Cookware,West,4,3911.24,20,12515.97
+782,2025-02-11,C1297,30,Male,Groceries,Milk,North,2,1747.98,5,3321.16
+783,2025-05-08,C1179,38,Female,Clothing,Jeans,North,2,3562.87,15,6056.88
+784,2025-02-18,C1265,34,Male,Home & Kitchen,Mixer,South,7,3197.76,20,17907.46
+785,2026-07-29,C1147,53,Female,Electronics,Smartphone,North,7,20778.98,10,130907.57
+786,2026-01-13,C1108,27,Male,Electronics,Smartphone,South,1,28464.75,10,25618.28
+787,2025-04-02,C1127,33,Female,Electronics,Laptop,South,7,16857.24,20,94400.54
+788,2025-06-05,C1005,38,Female,Groceries,Coffee,East,4,2759.16,0,11036.64
+789,2025-07-12,C1237,20,Female,Clothing,T-Shirt,North,5,4127.05,0,20635.25
+790,2025-02-24,C1172,62,Female,Groceries,Rice,North,3,3663.51,20,8792.42
+791,2026-05-12,C1087,26,Male,Home & Kitchen,Table,North,7,1994.9,20,11171.44
+792,2025-02-11,C1276,26,Male,Clothing,Jacket,East,3,3414.54,5,9731.44
+793,2026-06-13,C1246,24,Male,Groceries,Milk,East,7,3457.28,10,21780.86
+794,2025-07-23,C1196,41,Male,Home & Kitchen,Cookware,North,5,325.75,0,1628.75
+795,2025-02-26,C1211,29,Female,Home & Kitchen,Table,North,6,1512.34,5,8620.34
+796,2025-12-01,C1288,26,Male,Clothing,Shoes,West,3,893.79,0,2681.37
+797,2025-07-30,C1076,37,Male,Home & Kitchen,Cookware,North,5,2593.64,10,11671.38
+798,2025-04-06,C1103,39,Female,Electronics,Laptop,West,1,11876.23,10,10688.61
+799,2025-03-23,C1072,48,Female,Clothing,Shoes,South,3,3549.43,10,9583.46
+800,2026-05-26,C1201,63,Female,Groceries,Coffee,East,2,700.49,10,1260.88
+801,2025-06-07,C1004,56,Female,Groceries,Bread,West,2,1275.78,15,2168.83
+802,2025-11-07,C1068,32,Female,Electronics,Tablet,North,4,8115.62,15,27593.11
+803,2025-05-13,C1108,59,Female,Electronics,Headphones,West,1,2490.9,5,2366.36
+804,2025-05-02,C1017,21,Male,Home & Kitchen,Table,South,2,3907.86,15,6643.36
+805,2026-05-13,C1045,51,Female,Electronics,Headphones,East,3,30405.49,5,86655.65
+806,2026-05-30,C1214,39,Female,Clothing,Jeans,East,2,2116.09,10,3808.96
+807,2026-06-03,C1269,19,Female,Groceries,Rice,South,4,2443.57,0,9774.28
+808,2025-11-21,C1219,30,Male,Groceries,Coffee,North,1,1392.15,10,1252.94
+809,2025-09-16,C1168,65,Female,Home & Kitchen,Chair,East,4,4364.35,10,15711.66
+810,2025-11-20,C1141,44,Female,Groceries,Coffee,North,4,2189.54,20,7006.53
+811,2026-08-12,C1180,19,Female,Home & Kitchen,Cookware,West,1,351.48,0,351.48
+812,2026-03-15,C1227,29,Female,Groceries,Bread,North,2,2248.71,10,4047.68
+813,2026-05-08,C1268,30,Female,Home & Kitchen,Table,South,7,310.24,0,2171.68
+814,2026-07-01,C1259,22,Female,Electronics,Laptop,East,6,28456.6,20,136591.68
+815,2025-04-26,C1162,20,Female,Clothing,Jacket,East,5,2868.06,5,13623.28
+816,2026-03-23,C1020,51,Female,Groceries,Rice,West,7,1517.4,0,10621.8
+817,2026-01-30,C1091,63,Female,Electronics,Tablet,South,7,14967.95,20,83820.52
+818,2026-01-04,C1072,54,Male,Clothing,Shoes,West,6,3160.61,15,16119.11
+819,2025-06-15,C1293,47,Male,Electronics,Smartphone,East,2,26482.5,5,50316.75
+820,2025-03-23,C1087,50,Female,Home & Kitchen,Chair,South,7,710.41,15,4226.94
+821,2026-04-09,C1092,56,Male,Clothing,Jacket,West,2,4391.78,20,7026.85
+822,2025-05-08,C1007,59,Male,Home & Kitchen,Mixer,North,3,1612.93,20,3871.03
+823,2026-07-19,C1224,43,Female,Groceries,Milk,East,5,4717.76,5,22409.36
+824,2025-06-28,C1039,21,Female,Groceries,Rice,East,5,4298.12,5,20416.07
+825,2026-03-18,C1203,44,Male,Home & Kitchen,Cookware,North,5,4656.83,0,23284.15
+826,2025-06-13,C1111,35,Male,Groceries,Bread,North,6,4879.23,10,26347.84
+827,2025-10-08,C1043,55,Female,Groceries,Bread,East,3,3268.43,0,9805.29
+828,2026-05-24,C1069,26,Female,Groceries,Bread,South,2,4140.63,15,7039.07
+829,2025-03-17,C1164,38,Male,Home & Kitchen,Chair,East,5,4737.06,5,22501.04
+830,2025-08-06,C1189,38,Male,Clothing,Shoes,South,1,4906.17,20,3924.94
+831,2025-09-28,C1123,33,Male,Clothing,Jacket,West,4,332.62,20,1064.38
+832,2025-07-27,C1235,38,Female,Electronics,Headphones,South,4,35815.22,20,114608.7
+833,2025-12-24,C1174,42,Male,Groceries,Milk,West,2,1261.04,10,2269.87
+834,2025-07-19,C1248,37,Female,Home & Kitchen,Mixer,South,5,3374.72,20,13498.88
+835,2025-09-28,C1094,43,Female,Clothing,Jacket,North,2,1744.86,0,3489.72
+836,2025-12-08,C1232,46,Female,Clothing,Shoes,South,4,981.75,20,3141.6
+837,2025-08-13,C1073,44,Female,Home & Kitchen,Cookware,North,6,1054.12,20,5059.78
+838,2025-08-08,C1215,46,Male,Clothing,T-Shirt,South,3,1339.0,15,3414.45
+839,2026-06-21,C1073,44,Male,Groceries,Milk,East,4,1454.8,5,5528.24
+840,2025-03-08,C1006,23,Male,Clothing,Jeans,South,4,1749.34,20,5597.89
+841,2026-02-08,C1103,41,Female,Clothing,Jeans,West,2,4180.57,15,7106.97
+842,2026-04-23,C1105,64,Male,Electronics,Laptop,South,1,21656.27,20,17325.02
+843,2026-03-25,C1024,27,Male,Groceries,Bread,West,6,3125.07,20,15000.34
+844,2025-04-25,C1068,60,Male,Home & Kitchen,Cookware,East,3,3247.34,0,9742.02
+845,2025-06-27,C1215,24,Male,Electronics,Smartphone,East,3,14683.22,0,44049.66
+846,2025-06-25,C1079,19,Male,Groceries,Coffee,East,7,4399.8,0,30798.6
+847,2025-01-28,C1001,52,Female,Groceries,Coffee,South,4,2751.06,20,8803.39
+848,2026-08-18,C1065,22,Female,Clothing,Shoes,East,1,2894.18,5,2749.47
+849,2025-06-30,C1164,21,Female,Clothing,Shoes,West,3,3681.53,20,8835.67
+850,2026-06-18,C1066,38,Female,Electronics,Smartphone,West,2,6318.29,5,12004.75
+851,2026-08-20,C1273,33,Female,Home & Kitchen,Table,East,7,1367.2,5,9091.88
+852,2026-05-29,C1244,65,Female,Groceries,Rice,South,7,4958.54,20,27767.82
+853,2026-05-10,C1002,58,Male,Groceries,Rice,East,3,1170.07,5,3334.7
+854,2026-01-24,C1106,49,Female,Electronics,Smartphone,East,4,31568.7,15,107333.58
+855,2025-04-10,C1146,26,Female,Electronics,Laptop,North,5,12042.68,0,60213.4
+856,2025-06-06,C1260,35,Female,Electronics,Laptop,North,2,36080.63,5,68553.2
+857,2025-03-03,C1102,62,Female,Electronics,Tablet,South,7,11828.06,10,74516.78
+858,2025-11-09,C1196,31,Male,Clothing,Jacket,West,4,4107.4,0,16429.6
+859,2026-01-09,C1069,48,Male,Home & Kitchen,Mixer,North,4,3861.61,20,12357.15
+860,2025-07-23,C1029,20,Female,Clothing,Shoes,North,1,1532.14,5,1455.53
+861,2026-03-06,C1068,42,Male,Electronics,Smartphone,North,1,17177.05,10,15459.34
+862,2026-03-21,C1246,58,Female,Groceries,Coffee,West,3,4113.2,0,12339.6
+863,2026-08-04,C1058,59,Female,Groceries,Coffee,South,7,4647.38,5,30905.08
+864,2025-10-13,C1071,23,Female,Home & Kitchen,Cookware,East,3,1835.99,5,5232.57
+865,2025-07-17,C1299,59,Female,Groceries,Rice,North,3,2398.94,20,5757.46
+866,2026-08-20,C1100,57,Female,Home & Kitchen,Chair,South,3,3168.59,5,9030.48
+867,2026-05-06,C1255,47,Female,Home & Kitchen,Chair,South,5,1220.55,5,5797.61
+868,2025-10-02,C1261,28,Male,Electronics,Headphones,West,1,9698.08,0,9698.08
+869,2025-01-27,C1190,36,Female,Home & Kitchen,Table,South,7,4730.2,5,31455.83
+870,2025-08-17,C1097,64,Female,Clothing,T-Shirt,East,7,3744.78,0,26213.46
+871,2025-10-09,C1133,39,Male,Groceries,Milk,North,4,1791.01,5,6805.84
+872,2025-01-18,C1242,47,Female,Home & Kitchen,Mixer,West,3,2268.02,10,6123.65
+873,2026-02-26,C1134,63,Female,Electronics,Headphones,South,1,24061.16,0,24061.16
+874,2026-03-22,C1186,23,Female,Clothing,Shoes,South,2,2951.87,15,5018.18
+875,2025-10-05,C1051,40,Female,Clothing,Jeans,East,2,2688.62,10,4839.52
+876,2026-01-29,C1183,26,Male,Home & Kitchen,Chair,West,1,3133.62,0,3133.62
+877,2025-02-03,C1291,55,Male,Clothing,T-Shirt,East,5,4671.22,5,22188.3
+878,2026-02-07,C1210,56,Male,Clothing,Shoes,West,3,3348.72,0,10046.16
+879,2025-05-09,C1091,45,Male,Home & Kitchen,Mixer,North,3,1265.0,15,3225.75
+880,2025-06-22,C1208,65,Female,Clothing,Shoes,East,5,2570.33,20,10281.32
+881,2026-05-11,C1143,48,Female,Clothing,Shoes,North,3,3439.39,20,8254.54
+882,2025-08-03,C1166,48,Male,Groceries,Coffee,West,2,563.0,10,1013.4
+883,2025-10-31,C1294,40,Male,Clothing,T-Shirt,North,3,3268.06,0,9804.18
+884,2025-12-22,C1028,62,Male,Electronics,Laptop,East,3,47362.93,15,120775.47
+885,2025-08-19,C1204,19,Female,Groceries,Coffee,South,2,4685.64,15,7965.59
+886,2025-09-24,C1069,52,Male,Clothing,Jacket,North,6,781.87,20,3752.98
+887,2025-04-25,C1220,48,Male,Clothing,Shoes,East,7,2900.17,20,16240.95
+888,2025-04-11,C1021,22,Female,Electronics,Smartphone,North,1,817.21,5,776.35
+889,2026-06-21,C1121,49,Female,Electronics,Laptop,South,4,24998.5,15,84994.9
+890,2025-01-13,C1048,42,Male,Electronics,Laptop,East,3,32448.02,10,87609.65
+891,2026-01-22,C1069,41,Female,Groceries,Coffee,South,6,410.85,20,1972.08
+892,2025-11-28,C1205,62,Female,Electronics,Tablet,East,2,33496.36,5,63643.08
+893,2026-05-13,C1178,30,Female,Electronics,Smartphone,East,6,13208.5,15,67363.35
+894,2025-08-02,C1208,58,Female,Home & Kitchen,Chair,West,7,1206.77,20,6757.91
+895,2026-03-29,C1060,33,Male,Clothing,T-Shirt,West,2,4339.65,5,8245.33
+896,2025-06-02,C1277,34,Male,Clothing,Jeans,North,5,3806.4,0,19032.0
+897,2025-06-07,C1275,56,Female,Groceries,Rice,North,2,2701.66,15,4592.82
+898,2025-03-14,C1189,34,Male,Clothing,Jacket,East,6,4241.59,5,24177.06
+899,2025-07-21,C1011,44,Female,Clothing,Jacket,South,5,2662.42,0,13312.1
+900,2025-01-16,C1012,52,Male,Electronics,Laptop,North,6,15423.68,10,83287.87
+901,2025-05-14,C1283,37,Male,Clothing,Jacket,South,4,1426.66,0,5706.64
+902,2025-04-13,C1055,18,Male,Electronics,Tablet,South,5,1155.38,10,5199.21
+903,2025-05-01,C1182,24,Female,Electronics,Smartphone,East,7,2708.73,5,18013.05
+904,2025-09-30,C1232,53,Female,Clothing,Jacket,South,3,4534.26,5,12922.64
+905,2025-01-25,C1187,49,Female,Home & Kitchen,Cookware,South,5,2937.22,10,13217.49
+906,2025-08-15,C1182,59,Female,Clothing,Jeans,East,5,3526.87,15,14989.2
+907,2026-03-09,C1100,47,Male,Clothing,T-Shirt,East,4,69.4,10,249.84
+908,2026-04-08,C1029,60,Female,Home & Kitchen,Table,West,7,3351.48,20,18768.29
+909,2025-06-15,C1279,43,Male,Clothing,Shoes,East,7,3209.83,5,21345.37
+910,2025-05-19,C1229,35,Male,Home & Kitchen,Cookware,South,2,586.58,20,938.53
+911,2026-04-28,C1191,61,Female,Clothing,Jeans,East,6,2047.95,0,12287.7
+912,2025-10-22,C1281,38,Female,Electronics,Headphones,East,6,25317.15,10,136712.61
+913,2026-04-25,C1151,30,Male,Groceries,Bread,West,6,2492.73,15,12712.92
+914,2025-04-11,C1149,35,Male,Home & Kitchen,Chair,West,1,1063.36,10,957.02
+915,2026-06-02,C1214,31,Male,Groceries,Rice,West,1,4190.38,5,3980.86
+916,2026-04-25,C1135,47,Female,Home & Kitchen,Cookware,South,5,1691.71,20,6766.84
+917,2025-12-10,C1262,44,Female,Home & Kitchen,Chair,West,1,127.69,10,114.92
+918,2025-08-02,C1246,41,Male,Electronics,Tablet,South,6,39159.01,10,211458.65
+919,2026-04-15,C1234,52,Female,Home & Kitchen,Cookware,North,1,4777.56,15,4060.93
+920,2025-10-07,C1136,59,Female,Clothing,Shoes,North,3,1719.2,5,4899.72
+921,2025-11-01,C1286,25,Male,Electronics,Tablet,East,4,17600.42,20,56321.34
+922,2025-07-09,C1053,55,Female,Groceries,Milk,South,1,3913.83,15,3326.76
+923,2025-07-16,C1223,64,Female,Clothing,Shoes,South,1,2913.89,15,2476.81
+924,2026-04-16,C1263,40,Male,Home & Kitchen,Table,East,4,3271.09,10,11775.92
+925,2025-10-31,C1115,35,Male,Clothing,Jeans,West,2,3659.59,0,7319.18
+926,2026-02-07,C1039,32,Female,Electronics,Smartphone,East,1,36033.56,15,30628.53
+927,2025-10-11,C1213,64,Female,Home & Kitchen,Chair,North,7,1973.72,10,12434.44
+928,2025-04-15,C1258,29,Female,Home & Kitchen,Chair,South,3,4265.11,10,11515.8
+929,2026-01-02,C1258,46,Male,Groceries,Bread,South,4,3209.21,5,12195.0
+930,2025-01-06,C1236,57,Male,Clothing,Shoes,East,7,3886.65,15,23125.57
+931,2026-05-25,C1040,49,Male,Home & Kitchen,Table,North,1,3582.36,0,3582.36
+932,2026-01-11,C1087,52,Female,Clothing,Shoes,East,1,471.46,0,471.46
+933,2025-11-19,C1252,63,Female,Groceries,Rice,South,6,4347.09,0,26082.54
+934,2026-07-15,C1038,25,Female,Clothing,Jeans,North,3,3530.84,10,9533.27
+935,2025-09-30,C1161,64,Female,Groceries,Coffee,West,2,2653.44,15,4510.85
+936,2025-04-23,C1205,38,Female,Clothing,Shoes,North,5,1423.74,15,6050.9
+937,2025-03-06,C1276,64,Female,Electronics,Smartphone,West,6,30943.34,0,185660.04
+938,2025-01-12,C1177,42,Male,Clothing,T-Shirt,South,1,1611.31,10,1450.18
+939,2025-02-25,C1118,21,Male,Clothing,Shoes,South,7,2136.48,0,14955.36
+940,2025-03-21,C1135,39,Male,Home & Kitchen,Cookware,East,3,3243.93,10,8758.61
+941,2025-04-13,C1007,56,Female,Home & Kitchen,Mixer,South,2,3563.2,10,6413.76
+942,2025-11-29,C1292,42,Female,Home & Kitchen,Chair,West,1,2318.11,20,1854.49
+943,2025-10-11,C1143,48,Female,Electronics,Smartphone,East,5,31508.24,5,149664.14
+944,2025-01-23,C1224,65,Female,Electronics,Tablet,East,2,33234.21,0,66468.42
+945,2025-08-28,C1141,45,Male,Electronics,Laptop,North,7,37091.3,20,207711.28
+946,2025-03-03,C1109,56,Male,Groceries,Bread,East,7,2325.09,10,14648.07
+947,2026-08-26,C1289,63,Male,Clothing,Jeans,South,6,3261.24,15,16632.32
+948,2025-12-28,C1064,46,Female,Home & Kitchen,Cookware,West,6,2516.04,15,12831.8
+949,2026-08-25,C1300,29,Male,Home & Kitchen,Mixer,North,3,2637.41,20,6329.78
+950,2026-08-31,C1103,35,Male,Groceries,Rice,West,7,2152.73,15,12808.74
+951,2025-08-14,C1230,22,Female,Clothing,Jeans,West,4,2353.12,10,8471.23
+952,2026-01-29,C1184,29,Male,Home & Kitchen,Mixer,West,6,2974.48,10,16062.19
+953,2025-11-10,C1187,46,Female,Clothing,Jacket,South,4,2785.88,0,11143.52
+954,2025-06-11,C1104,50,Male,Clothing,Jeans,East,3,3301.24,20,7922.98
+955,2025-04-23,C1023,63,Female,Clothing,Shoes,East,2,295.49,5,561.43
+956,2026-02-22,C1113,61,Female,Clothing,T-Shirt,West,5,2058.29,15,8747.73
+957,2026-05-27,C1045,61,Male,Clothing,T-Shirt,East,3,1376.83,15,3510.92
+958,2025-09-24,C1190,64,Female,Clothing,Jacket,West,1,3843.44,5,3651.27
+959,2025-11-19,C1082,36,Male,Electronics,Laptop,South,6,37505.75,10,202531.05
+960,2025-10-22,C1177,29,Male,Home & Kitchen,Cookware,South,2,2487.39,10,4477.3
+961,2025-10-20,C1116,41,Male,Groceries,Milk,North,7,1127.61,15,6709.28
+962,2025-01-11,C1012,52,Male,Groceries,Bread,West,2,3913.33,0,7826.66
+963,2025-08-17,C1080,50,Female,Home & Kitchen,Cookware,South,1,1432.76,10,1289.48
+964,2026-06-27,C1015,28,Female,Groceries,Bread,East,7,4280.64,20,23971.58
+965,2026-08-16,C1124,36,Male,Home & Kitchen,Table,South,5,3973.07,20,15892.28
+966,2026-07-27,C1026,24,Male,Home & Kitchen,Mixer,East,5,2795.37,10,12579.16
+967,2025-11-20,C1186,23,Male,Groceries,Milk,North,3,4446.95,5,12673.81
+968,2025-06-02,C1225,18,Male,Electronics,Laptop,South,4,25999.18,0,103996.72
+969,2025-11-29,C1052,20,Female,Clothing,Jeans,North,4,3763.85,0,15055.4
+970,2026-08-21,C1153,19,Male,Clothing,Jacket,South,3,2792.15,20,6701.16
+971,2025-04-28,C1089,43,Male,Electronics,Tablet,East,4,40955.47,20,131057.5
+972,2025-05-29,C1046,33,Female,Home & Kitchen,Mixer,West,6,888.64,0,5331.84
+973,2026-04-18,C1275,50,Female,Home & Kitchen,Cookware,East,5,1883.93,10,8477.68
+974,2025-04-01,C1141,50,Male,Clothing,Shoes,South,2,3362.31,0,6724.62
+975,2025-11-15,C1094,52,Female,Electronics,Headphones,East,1,22752.55,10,20477.29
+976,2026-02-05,C1296,38,Male,Clothing,Shoes,East,4,3857.08,10,13885.49
+977,2025-07-21,C1216,29,Male,Home & Kitchen,Cookware,East,3,2624.67,5,7480.31
+978,2025-05-14,C1022,58,Female,Groceries,Bread,North,2,3046.95,20,4875.12
+979,2025-09-03,C1227,59,Male,Electronics,Headphones,West,2,10123.77,20,16198.03
+980,2025-09-25,C1170,56,Male,Clothing,Shoes,East,2,4048.77,10,7287.79
+981,2026-03-01,C1184,41,Male,Home & Kitchen,Cookware,West,7,3345.54,5,22247.84
+982,2026-01-21,C1230,32,Male,Groceries,Bread,East,5,472.74,15,2009.14
+983,2026-08-27,C1138,55,Male,Groceries,Milk,North,3,497.96,10,1344.49
+984,2026-01-07,C1105,41,Female,Clothing,Jeans,West,7,1030.12,5,6850.3
+985,2025-05-13,C1065,51,Female,Home & Kitchen,Chair,North,3,1293.4,5,3686.19
+986,2025-03-29,C1278,37,Female,Groceries,Milk,North,5,3744.94,20,14979.76
+987,2026-03-29,C1203,41,Female,Clothing,Jeans,East,1,3249.51,15,2762.08
+988,2025-12-02,C1238,18,Male,Groceries,Rice,East,5,1303.35,5,6190.91
+989,2026-07-20,C1295,59,Female,Groceries,Bread,North,3,2609.18,0,7827.54
+990,2026-03-07,C1042,47,Female,Groceries,Bread,West,4,4004.8,5,15218.24
+991,2025-04-16,C1130,34,Female,Clothing,Shoes,West,2,3326.21,20,5321.94
+992,2025-04-20,C1049,18,Male,Groceries,Bread,West,4,1174.68,5,4463.78
+993,2026-03-28,C1105,39,Female,Electronics,Headphones,West,4,11443.37,20,36618.78
+994,2025-02-17,C1126,64,Male,Clothing,Jacket,West,7,2104.78,10,13260.11
+995,2025-06-14,C1125,34,Female,Electronics,Tablet,South,1,44353.36,10,39918.02
+996,2025-08-27,C1020,35,Male,Clothing,Jeans,North,5,2770.94,5,13161.96
+997,2026-08-24,C1253,41,Female,Clothing,Shoes,West,4,3339.03,20,10684.9
+998,2026-01-29,C1042,38,Male,Electronics,Smartphone,West,3,39519.73,10,106703.27
+999,2026-05-21,C1041,40,Male,Groceries,Bread,West,3,2069.08,0,6207.24
+1000,2025-07-10,C1009,50,Male,Groceries,Coffee,West,1,919.12,5,873.16
